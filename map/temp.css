@@ -1,0 +1,14 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    /*border: 3px solid blue;*/
+}
+
+#mapid {
+    height: 98%;
+    width: 98%;
+    margin: auto;
+    border: 3px solid black;
+}

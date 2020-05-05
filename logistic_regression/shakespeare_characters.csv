@@ -1,0 +1,1121 @@
+tim.,TIMON of Athens,Globe_Shakespeare/tim.xml,,MALE,GD
+lucul.,LUCULLUS,Globe_Shakespeare/tim.xml,,MALE,GD
+sem.,SEMPRONIUS,Globe_Shakespeare/tim.xml,,MALE,GD
+ven.,VENTIDIUS,Globe_Shakespeare/tim.xml,,MALE,GD
+alcib.,ALCIBIADES,Globe_Shakespeare/tim.xml,,MALE,GD
+apem.,APEMANTUS,Globe_Shakespeare/tim.xml,,MALE,GD
+flav.,FLAVIUS,Globe_Shakespeare/tim.xml,,MALE,GD
+poet.,Poet,Globe_Shakespeare/tim.xml,,MALE,GD
+pain.,,Globe_Shakespeare/tim.xml,,MALE,GD
+jew.,Jeweller,Globe_Shakespeare/tim.xml,,MALE,GD
+mer.,Merchant,Globe_Shakespeare/tim.xml,,MALE,GD
+old-ath.,An old Athenian,Globe_Shakespeare/tim.xml,,MALE,GD
+flam.,FLAMINIUS,Globe_Shakespeare/tim.xml,,MALE,GD
+luc.,LUCILIUS,Globe_Shakespeare/tim.xml,,MALE,GD
+ser.,SERVILIUS,Globe_Shakespeare/tim.xml,,MALE,GD
+caph.,CAPHIS,Globe_Shakespeare/tim.xml,,MALE,GD
+phi.,PHILOTUS,Globe_Shakespeare/tim.xml,,MALE,GD
+tit.,TITUS,Globe_Shakespeare/tim.xml,,MALE,GD
+luc.-serv.,LUCIUS,Globe_Shakespeare/tim.xml,,MALE,GD
+hor.,HORTENSIUS,Globe_Shakespeare/tim.xml,,MALE,GD
+page.,A Page,Globe_Shakespeare/tim.xml,,MALE,GD
+fool.,A Fool,Globe_Shakespeare/tim.xml,,MALE,GD
+first-stran.,First Stranger,Globe_Shakespeare/tim.xml,,MALE,GD
+sec.-stran.,Second Stranger,Globe_Shakespeare/tim.xml,,MALE,GD
+third-stran.,Third Stranger,Globe_Shakespeare/tim.xml,,MALE,GD
+phr.,Phrynia,Globe_Shakespeare/tim.xml,,FEMALE,GD
+timan.,Timandra,Globe_Shakespeare/tim.xml,,FEMALE,GD
+cup.,Cupid,Globe_Shakespeare/tim.xml,,MALE,GD
+first-lord.,First Lord,Globe_Shakespeare/tim.xml,,MALE,GD
+sec.-lord.,Second Lord,Globe_Shakespeare/tim.xml,,MALE,GD
+third-lord.,Third Lord,Globe_Shakespeare/tim.xml,,MALE,GD
+fourth-lord.,Fourth Lord,Globe_Shakespeare/tim.xml,,MALE,GD
+fir.-sec.-lords.,First and Sec. Lords,Globe_Shakespeare/tim.xml,,MALE,GD
+all-lords.,All Lords,Globe_Shakespeare/tim.xml,,MALE,GD
+first-lady.,First Lady,Globe_Shakespeare/tim.xml,,FEMALE,GD
+all-ladies.,All Ladies,Globe_Shakespeare/tim.xml,,FEMALE,GD
+all.,All,Globe_Shakespeare/tim.xml,,MALE,GD
+both.,Both,Globe_Shakespeare/tim.xml,,MALE,GD
+some.,Some,Globe_Shakespeare/tim.xml,,MALE,GD
+serv.,Servant,Globe_Shakespeare/tim.xml,,MALE,GD
+first-serv.,First Servant,Globe_Shakespeare/tim.xml,,MALE,GD
+sec.-serv.,Second Servant,Globe_Shakespeare/tim.xml,,MALE,GD
+third-serv.,Third Servant,Globe_Shakespeare/tim.xml,,MALE,GD
+all-serv.,All Servants,Globe_Shakespeare/tim.xml,,MALE,GD
+servants.,Servants,Globe_Shakespeare/tim.xml,,MALE,GD
+var.-serv.,Servant to Varro,Globe_Shakespeare/tim.xml,,MALE,GD
+first-var.-serv.,First Servant to Varro,Globe_Shakespeare/tim.xml,,MALE,GD
+sec.-var.-serv.,Second Servant to Varro,Globe_Shakespeare/tim.xml,,MALE,GD
+both-serv.,Both Servants to Varro,Globe_Shakespeare/tim.xml,,MALE,GD
+isid.-serv.,Servant to Isidore,Globe_Shakespeare/tim.xml,,MALE,GD
+sen.,Senator,Globe_Shakespeare/tim.xml,,MALE,GD
+first-sen.,First Senator,Globe_Shakespeare/tim.xml,,MALE,GD
+sec.-sen.,Second Senator,Globe_Shakespeare/tim.xml,,MALE,GD
+third-sen.,Third Senator,Globe_Shakespeare/tim.xml,,MALE,GD
+mess.,Messenger,Globe_Shakespeare/tim.xml,,MALE,GD
+first-ban.,First Bandit,Globe_Shakespeare/tim.xml,,MALE,GD
+sec.-ban.,Second Bandit,Globe_Shakespeare/tim.xml,,MALE,GD
+banditti.,Banditti,Globe_Shakespeare/tim.xml,,MALE,GD
+sold.,Soldier,Globe_Shakespeare/tim.xml,,MALE,GD
+tgv-10,DUKE OF MILAN,Globe_Shakespeare/tgv.xml,,MALE,GD
+tgv-4,VALENTINE,Globe_Shakespeare/tgv.xml,,MALE,GD
+tgv-2,PROTEUS,Globe_Shakespeare/tgv.xml,,MALE,GD
+tgv-1,ANTONIO,Globe_Shakespeare/tgv.xml,,MALE,GD
+tgv-11,THURIO,Globe_Shakespeare/tgv.xml,,MALE,GD
+tgv-15,EGLAMOUR,Globe_Shakespeare/tgv.xml,,MALE,GD
+tgv-16,HOST,Globe_Shakespeare/tgv.xml,,MALE,GD
+tgv-13,Outlaws,Globe_Shakespeare/tgv.xml,,MALE,GD
+tgv-3,SPEED,Globe_Shakespeare/tgv.xml,,MALE,GD
+tgv-9,LAUNCE,Globe_Shakespeare/tgv.xml,,MALE,GD
+tgv-7,PANTHINO,Globe_Shakespeare/tgv.xml,,MALE,GD
+tgv-5,JULIA,Globe_Shakespeare/tgv.xml,,FEMALE,GD
+tgv-8,SILVIA,Globe_Shakespeare/tgv.xml,,FEMALE,GD
+tgv-6,LUCETTA,Globe_Shakespeare/tgv.xml,,FEMALE,GD
+duke.,The DUKE OF VENICE,Globe_Shakespeare/mv.xml,,MALE,GD
+mor.,The PRINCE OF MOROCCO,Globe_Shakespeare/mv.xml,,MALE,GD
+ar.,The PRINCE OF ARRAGON,Globe_Shakespeare/mv.xml,,MALE,GD
+ant.,ANTONIO,Globe_Shakespeare/mv.xml,,MALE,GD
+bass.,BASSANIO,Globe_Shakespeare/mv.xml,,MALE,GD
+salan.,SALANIO,Globe_Shakespeare/mv.xml,,MALE,GD
+salar.,SALARINO,Globe_Shakespeare/mv.xml,,MALE,GD
+gra.,GRATIANO,Globe_Shakespeare/mv.xml,,male,JM
+saler.,SALERIO,Globe_Shakespeare/mv.xml,,male,JM
+lor.,LORENZO,Globe_Shakespeare/mv.xml,,male,JM
+shy.,SHYLOCK,Globe_Shakespeare/mv.xml,,male,JM
+tub.,TUBAL,Globe_Shakespeare/mv.xml,,male,JM
+laun.,LAUNCELOT GOBBO,Globe_Shakespeare/mv.xml,,male,JM
+gob.,OLD GOBBO,Globe_Shakespeare/mv.xml,,male,JM
+leon.,LEONARDO,Globe_Shakespeare/mv.xml,,male,JM
+balth.,BALTHASAR,Globe_Shakespeare/mv.xml,,male,JM
+steph.,STEPHANO,Globe_Shakespeare/mv.xml,,male,JM
+por.,PORTIA,Globe_Shakespeare/mv.xml,,female,JM
+ner.,NERISSA,Globe_Shakespeare/mv.xml,,female,JM
+jes.,JESSICA,Globe_Shakespeare/mv.xml,,female,JM
+clerk.,Clerk,Globe_Shakespeare/mv.xml,,male,JM
+serv.,Servants to Portia,Globe_Shakespeare/mv.xml,,male,JM
+all.,All.,Globe_Shakespeare/mv.xml,,male,JM
+lr-11,LEAR,Globe_Shakespeare/lr.xml,,male,JM
+lr-6,KING OF FRANCE,Globe_Shakespeare/lr.xml,,male,JM
+lr-2,DUKE OF BURGUNDY,Globe_Shakespeare/lr.xml,,male,JM
+lr-4,DUKE OF CORNWALL,Globe_Shakespeare/lr.xml,,male,JM
+lr-1,DUKE OF ALBANY,Globe_Shakespeare/lr.xml,,male,JM
+lr-9,EARL OF KENT,Globe_Shakespeare/lr.xml,,male,JM
+lr-7,EARL OF GLOUCESTER,Globe_Shakespeare/lr.xml,,male,JM
+lr-13,EDGAR,Globe_Shakespeare/lr.xml,,male,JM
+lr-5,EDMUND,Globe_Shakespeare/lr.xml,,male,JM
+lr-18,CURAN,Globe_Shakespeare/lr.xml,,male,JM
+lr-20,Old Man,Globe_Shakespeare/lr.xml,,male,JM
+lr-22,Doctor,Globe_Shakespeare/lr.xml,,male,JM
+lr-15,Fool,Globe_Shakespeare/lr.xml,,male,JM
+lr-14,OSWALD,Globe_Shakespeare/lr.xml,,male,JM
+lr-24,A Captain  employed by Edmund,Globe_Shakespeare/lr.xml,,male,JM
+lr-17,Gentleman attendant on Cordelia,Globe_Shakespeare/lr.xml,,male,JM
+lr-25,A Herald,Globe_Shakespeare/lr.xml,,male,JM
+lr-19,First Servant,Globe_Shakespeare/lr.xml,,male,JM
+lr-8,GONERIL,Globe_Shakespeare/lr.xml,,female,JM
+lr-12,REGAN,Globe_Shakespeare/lr.xml,,female,JM
+lr-3,CORDELIA,Globe_Shakespeare/lr.xml,,female,JM
+lr-16,Knights of Lear's train,Globe_Shakespeare/lr.xml,,male,JM
+lr-21,Messengers,Globe_Shakespeare/lr.xml,,male,JM
+alon.,ALONSO,Globe_Shakespeare/tmp.xml,,male,JM
+seb.,SEBASTIAN,Globe_Shakespeare/tmp.xml,,male,JM
+pros.,PROSPERO,Globe_Shakespeare/tmp.xml,,male,JM
+ant.,ANTONIO,Globe_Shakespeare/tmp.xml,,male,JM
+fer.,FERDINAND,Globe_Shakespeare/tmp.xml,,male,JM
+gon.,GONZALO,Globe_Shakespeare/tmp.xml,,male,JM
+adr.,ADRIAN,Globe_Shakespeare/tmp.xml,,male,JM
+fran.,FRANCISCO,Globe_Shakespeare/tmp.xml,,male,JM
+cal.,CALIBAN,Globe_Shakespeare/tmp.xml,,male,JM
+trin.,TRINCULO,Globe_Shakespeare/tmp.xml,,male,JM
+ste.,STEPHANO,Globe_Shakespeare/tmp.xml,,male,JM
+mast.,Master of a Ship,Globe_Shakespeare/tmp.xml,,male,JM
+boats.,Boatswain,Globe_Shakespeare/tmp.xml,,male,JM
+mariners.,Mariners,Globe_Shakespeare/tmp.xml,,male,JM
+mir.,MIRANDA,Globe_Shakespeare/tmp.xml,,female,JM
+ari.,ARIEL,Globe_Shakespeare/tmp.xml,,male,JM
+iris.,IRIS,Globe_Shakespeare/tmp.xml,,female,JM
+cer.,CERES,Globe_Shakespeare/tmp.xml,,female,JM
+juno.,JUNO,Globe_Shakespeare/tmp.xml,,female,JM
+fer.-mir.,Ferdinand and Miranda,Globe_Shakespeare/tmp.xml,,male,JM
+duke-s.,DUKE,Globe_Shakespeare/ayl.xml,,male,JM
+duke-f.,FREDERICK,Globe_Shakespeare/ayl.xml,,male,JM
+jaq.,JAQUES,Globe_Shakespeare/ayl.xml,,male,JM
+ami.,AMIENS,Globe_Shakespeare/ayl.xml,,male,JM
+le-beau.,LE BEAU,Globe_Shakespeare/ayl.xml,,male,JM
+cha.,CHARLES,Globe_Shakespeare/ayl.xml,,male,JM
+oli.,OLIVER,Globe_Shakespeare/ayl.xml,,male,JM
+jaq.-de-b.,JAQUES,Globe_Shakespeare/ayl.xml,,male,JM
+orl.,ORLANDO,Globe_Shakespeare/ayl.xml,,male,JM
+adam.,ADAM,Globe_Shakespeare/ayl.xml,,male,JM
+den.,DENNIS,Globe_Shakespeare/ayl.xml,,male,JM
+touch.,Touchstone,Globe_Shakespeare/ayl.xml,,male,JM
+sir-oli.,SIR OLIVER MARTEXT,Globe_Shakespeare/ayl.xml,,male,JM
+cor.,CORIN,Globe_Shakespeare/ayl.xml,,male,JM
+sil.,SILVIUS,Globe_Shakespeare/ayl.xml,,male,JM
+will.,"WILLIAM, a country fellow",Globe_Shakespeare/ayl.xml,,male,JM
+hym.,A person representing Hymen,Globe_Shakespeare/ayl.xml,,male,JM
+ros.,ROSALIND,Globe_Shakespeare/ayl.xml,,female,JM
+cel.,CELIA,Globe_Shakespeare/ayl.xml,,female,JM
+phe.,PHEBE,Globe_Shakespeare/ayl.xml,,female,JM
+aud.,AUDREY,Globe_Shakespeare/ayl.xml,,female,JM
+first-lord.,First Lord,Globe_Shakespeare/ayl.xml,,male,JM
+sec.-lord.,Second Lord,Globe_Shakespeare/ayl.xml,,male,CD
+for.,Forester,Globe_Shakespeare/ayl.xml,,male,CD
+first-page,First Page,Globe_Shakespeare/ayl.xml,,male,CD
+sec.-page,Second Page,Globe_Shakespeare/ayl.xml,,male,CD
+k.-edw.,KING EDWARD the Fourth,Globe_Shakespeare/r3.xml,,male,CD
+prince.,"EDWARD, Prince of Wales",Globe_Shakespeare/r3.xml,,male,CD
+york.,RICHARD,Globe_Shakespeare/r3.xml,,male,CD
+clar.,GEORGE,Globe_Shakespeare/r3.xml,,male,CD
+glou._k.-rich.,RICHARD,Globe_Shakespeare/r3.xml,,male,CD
+boy.,A young son of Clarence,Globe_Shakespeare/r3.xml,,male,CD
+richm.,"HENRY, Earl of Richmond",Globe_Shakespeare/r3.xml,,male,CD
+card.,CARDINAL BOURCHIER,Globe_Shakespeare/r3.xml,,male,CD
+rot.,THOMAS ROTHERHAM,Globe_Shakespeare/r3.xml,,male,CD
+ely.,JOHN MORTON,Globe_Shakespeare/r3.xml,,male,CD
+buck.,DUKE OF BUCKINGHAM,Globe_Shakespeare/r3.xml,,male,CD
+nor.,DUKE OF NORFOLK,Globe_Shakespeare/r3.xml,,male,CD
+sur.,EARL OF SURREY,Globe_Shakespeare/r3.xml,,male,CD
+riv.,EARL RIVERS,Globe_Shakespeare/r3.xml,,male,CD
+dor.,MARQUIS OF DORSET,Globe_Shakespeare/r3.xml,,male,CD
+grey.,LORD GREY,Globe_Shakespeare/r3.xml,,male,CD
+oxf.,EARL OF OXFORD,Globe_Shakespeare/r3.xml,,male,CD
+hast.,LORD HASTINGS,Globe_Shakespeare/r3.xml,,male,CD
+stan.,LORD STANLEY,Globe_Shakespeare/r3.xml,,male,CD
+der.,LORD STANLEY,Globe_Shakespeare/r3.xml,,male,CD
+lov.,LORD LOVEL,Globe_Shakespeare/r3.xml,,male,CD
+vaug.,SIR THOMAS VAUGHAN,Globe_Shakespeare/r3.xml,,male,CD
+rat.,SIR RICHARD RATCLIFF,Globe_Shakespeare/r3.xml,,male,CD
+cates.,SIR WILLIAM CATESBY,Globe_Shakespeare/r3.xml,,male,CD
+cate.,SIR WILLIAM CATESBY,Globe_Shakespeare/r3.xml,,male,CD
+tyr.,SIR JAMES TYRREL,Globe_Shakespeare/r3.xml,,male,CD
+blunt.,SIR JAMES BLOUNT,Globe_Shakespeare/r3.xml,,male,CD
+herb.,SIR WALTER HERBERT,Globe_Shakespeare/r3.xml,,male,CD
+brak.,SIR ROBERT BRAKENBURY,Globe_Shakespeare/r3.xml,,male,CD
+chris.,CHRISTOPHER URSWICK,Globe_Shakespeare/r3.xml,,male,CD
+priest.,Another priest,Globe_Shakespeare/r3.xml,,male,CD
+gent.,Gentleman,Globe_Shakespeare/r3.xml,,male,CD
+may.,Lord Mayor of London.,Globe_Shakespeare/r3.xml,,male,CD
+sher.,Sheriff of Wiltshire.,Globe_Shakespeare/r3.xml,,male,CD
+q.-eliz.,ELIZABETH,Globe_Shakespeare/r3.xml,,female,CD
+q.-mar.,MARGARET,Globe_Shakespeare/r3.xml,,female,CD
+duch.,DUCHESS OF YORK,Globe_Shakespeare/r3.xml,,female,CD
+anne.,LADY ANNE,Globe_Shakespeare/r3.xml,,female,CD
+girl.,A young daughter of Clarence (MARGARET PLANTAGENET),Globe_Shakespeare/r3.xml,,female,CD
+ghost-of-g.,Ghost of Grey,Globe_Shakespeare/r3.xml,,male,CD
+ghost-of-v.,Ghost of Vaughn,Globe_Shakespeare/r3.xml,,male,CD
+ghost-of-r.,Ghost of Rivers,Globe_Shakespeare/r3.xml,,male,CD
+ghost.,Ghosts of others murdered by Richard III.,Globe_Shakespeare/r3.xml,,various,CD
+ghosts.,Ghosts of others murdered by Richard III.,Globe_Shakespeare/r3.xml,,various,CD
+first.-murd.,First Murderer.,Globe_Shakespeare/r3.xml,,male,CD
+sec.-murd.,Second Murderer.,Globe_Shakespeare/r3.xml,,male,CD
+cit.,Citizen,Globe_Shakespeare/r3.xml,,male,CD
+first-cit.,First Citizen,Globe_Shakespeare/r3.xml,,male,CD
+sec.-cit.,Second Citizen,Globe_Shakespeare/r3.xml,,male,CD
+third.-cit.,Third Citizen,Globe_Shakespeare/r3.xml,,male,CD
+mess.,Messenger,Globe_Shakespeare/r3.xml,,male,CD
+sec.-mess.,Second Messenger,Globe_Shakespeare/r3.xml,,male,CD
+third-mess.,Third Messenger,Globe_Shakespeare/r3.xml,,male,CD
+fourth-mess.,Fourth Messenger,Globe_Shakespeare/r3.xml,,male,CD
+purs.,a Pursuivant,Globe_Shakespeare/r3.xml,,male,CD
+lords.,Lords.,Globe_Shakespeare/r3.xml,,male,CD
+scriv.,Scivener.,Globe_Shakespeare/r3.xml,,male,CD
+page.,Page,Globe_Shakespeare/r3.xml,,male,CD
+jc-22,Julius Csar,Globe_Shakespeare/jc.xml,,male,CD
+jc-33,Octavius Csar,Globe_Shakespeare/jc.xml,,male,CD
+jc-1,Marcus Antonius,Globe_Shakespeare/jc.xml,,male,CD
+jc-23,M. milius Lepidus,Globe_Shakespeare/jc.xml,,male,CD
+jc-11,Cicero,Globe_Shakespeare/jc.xml,,male,CD
+jc-39,Publius,Globe_Shakespeare/jc.xml,,male,CD
+jc-37,Popilius Lena,Globe_Shakespeare/jc.xml,,male,CD
+jc-4,Marcus Brutus,Globe_Shakespeare/jc.xml,,male,CD
+jc-9,Cassius,Globe_Shakespeare/jc.xml,,male,CD
+jc-8,Casca,Globe_Shakespeare/jc.xml,,male,CD
+jc-45,Trebonius,Globe_Shakespeare/jc.xml,,male,CD
+jc-24,Ligarius,Globe_Shakespeare/jc.xml,,male,CD
+jc-19,Decius Brutus,Globe_Shakespeare/jc.xml,,male,CD
+jc-12,Metellus Cimber,Globe_Shakespeare/jc.xml,,male,CD
+jc-13,Cinna,Globe_Shakespeare/jc.xml,,male,CD
+jc-20,Flavius,Globe_Shakespeare/jc.xml,,male,CD
+jc-32,Marullus,Globe_Shakespeare/jc.xml,,male,CD
+jc-2,Artemidorus of Cnidos,,,male,CD
+jc-42,A Soothsayer,Globe_Shakespeare/jc.xml,,male,CD
+jc-14,Cinna,Globe_Shakespeare/jc.xml,,male,CD
+jc-36,Another Poet.,Globe_Shakespeare/jc.xml,,MALE,
+jc-25,Lucilius,Globe_Shakespeare/jc.xml,,MALE,ZS
+jc-44,Titinius,Globe_Shakespeare/jc.xml,,MALE,ZS
+jc-29,Messala,Globe_Shakespeare/jc.xml,,MALE,ZS
+jc-10,Young Cato,Globe_Shakespeare/jc.xml,,MALE,ZS
+jc-47,Volumnius,Globe_Shakespeare/jc.xml,,MALE,ZS
+jc-46,Varro,Globe_Shakespeare/jc.xml,,MALE,ZS
+jc-16,Clitus,Globe_Shakespeare/jc.xml,,MALE,ZS
+jc-15,Claudius,Globe_Shakespeare/jc.xml,,MALE,ZS
+jc-43,Strato,Globe_Shakespeare/jc.xml,,MALE,ZS
+jc-26,Lucius,Globe_Shakespeare/jc.xml,,MALE,ZS
+jc-18,Dardanius,Globe_Shakespeare/jc.xml,,MALE,ZS
+jc-34,Pindarus,Globe_Shakespeare/jc.xml,,MALE,ZS
+jc-6,Calpurnia,Globe_Shakespeare/jc.xml,,FEMALE,ZS
+jc-38,Portia,Globe_Shakespeare/jc.xml,,FEMALE,ZS
+jc-35,Citizens,Globe_Shakespeare/jc.xml,,,
+cym.,CYMBELINE,Globe_Shakespeare/cym.xml,,MALE,ZS
+clo.,CLOTEN,Globe_Shakespeare/cym.xml,,,
+post.,POSTHUMUS LEONATUS,Globe_Shakespeare/cym.xml,,MALE,ZS
+bel.,BELARIUS,Globe_Shakespeare/cym.xml,,MALE,ZS
+gui.,GUIDERIUS,Globe_Shakespeare/cym.xml,,MALE,ZS
+arv.,ARVIRAGUS,Globe_Shakespeare/cym.xml,,MALE,ZS
+phi.,PHILARIO,Globe_Shakespeare/cym.xml,,MALE,ZS
+iach.,IACHIMO,Globe_Shakespeare/cym.xml,,MALE,ZS
+luc.,CAIUS LUCIUS,Globe_Shakespeare/cym.xml,,MALE,ZS
+pis.,PISANIO,Globe_Shakespeare/cym.xml,,MALE,ZS
+cor.,CORNELIUS,Globe_Shakespeare/cym.xml,,MALE,ZS
+cap.,A Roman Captain,Globe_Shakespeare/cym.xml,,MALE,ZS
+first-cap.,First Captain,Globe_Shakespeare/cym.xml,,MALE,ZS
+sec.-cap.,Second Captain,Globe_Shakespeare/cym.xml,,MALE,ZS
+french.,A Frenchman,Globe_Shakespeare/cym.xml,,MALE,ZS
+first-lord.,First Lord,Globe_Shakespeare/cym.xml,,MALE,ZS
+sec.-lord.,Second Lord,Globe_Shakespeare/cym.xml,,MALE,ZS
+first-gent.,First Gentleman,Globe_Shakespeare/cym.xml,,MALE,ZS
+sec.-gent.,Second Gentleman,Globe_Shakespeare/cym.xml,,MALE,ZS
+first-gaol.,First Gaoler,Globe_Shakespeare/cym.xml,,MALE,ZS
+sec.-gaol.,Second Gaoler,Globe_Shakespeare/cym.xml,,MALE,ZS
+queen.,Queen,Globe_Shakespeare/cym.xml,,FEMALE,ZS
+imo.,IMOGEN,Globe_Shakespeare/cym.xml,,FEMALE,ZS
+helen.,HELEN,Globe_Shakespeare/cym.xml,,FEMALE,ZS
+first-sen.,First Senator,Globe_Shakespeare/cym.xml,,MALE,ZS
+sec.-sen.,Second Senator,Globe_Shakespeare/cym.xml,,MALE,ZS
+first-tri.,First Tribune,Globe_Shakespeare/cym.xml,,MALE,ZS
+mess.,Messenger,Globe_Shakespeare/cym.xml,,MALE,ZS
+atten.,Attendant,Globe_Shakespeare/cym.xml,,MALE,ZS
+sooth.,Soothsayer,Globe_Shakespeare/cym.xml,,,
+lord.,a British Lord,Globe_Shakespeare/cym.xml,,MALE,ZS
+lords.,Lords,Globe_Shakespeare/cym.xml,,MALE,ZS
+first-lady.,First Lady,Globe_Shakespeare/cym.xml,,FEMALE,ZS
+lady.,a Lady,Globe_Shakespeare/cym.xml,,FEMALE,ZS
+both.,Both,Globe_Shakespeare/cym.xml,,,
+gui.-and-arv.,Gui. and Arv.,Globe_Shakespeare/cym.xml,,,
+sici.,SICILIUS LEONATUS,Globe_Shakespeare/cym.xml,,MALE,ZS
+moth.,his wife,Globe_Shakespeare/cym.xml,,FEMALE,ZS
+first-bro.,First of the Leonati,Globe_Shakespeare/cym.xml,,,
+sec.-bro.,Second of the Leonati,Globe_Shakespeare/cym.xml,,,
+both-bro.,Both together,Globe_Shakespeare/cym.xml,,,
+jup.,Jupiter,Globe_Shakespeare/cym.xml,,MALE,ZS
+all.,All,Globe_Shakespeare/cym.xml,,,
+cor-6,CAIUS MARCIUS,Globe_Shakespeare/cor.xml,,MALE,ZS
+cor-15,Titus Lartius,Globe_Shakespeare/cor.xml,,MALE,ZS
+cor-8,Cominius,Globe_Shakespeare/cor.xml,,MALE,ZS
+cor-20,Menenius Agrippa,Globe_Shakespeare/cor.xml,,MALE,ZS
+cor-31,Sicinius Velutus,Globe_Shakespeare/cor.xml,,MALE,ZS
+cor-13,Junius Brutus,Globe_Shakespeare/cor.xml,,MALE,ZS
+cor-19,Young Marcius,Globe_Shakespeare/cor.xml,,MALE,ZS
+cor-12,A Roman Herald,Globe_Shakespeare/cor.xml,,MALE,ZS
+cor-34,Tullus Aufidius,Globe_Shakespeare/cor.xml,,MALE,ZS
+cor-16,Lieutenant to Aufidius.,Globe_Shakespeare/cor.xml,,MALE,ZS
+cor-9,Conspirators with Aufidius.,Globe_Shakespeare/cor.xml,,MALE,ZS
+cor-7a,A Citizen of Antium.,Globe_Shakespeare/cor.xml,,,
+cor-40,Two Volscian Guards.,Globe_Shakespeare/cor.xml,,MALE,ZS
+cor-39,Volumnia,Globe_Shakespeare/cor.xml,,FEMALE,ZS
+cor-37,Virgilia,Globe_Shakespeare/cor.xml,,FEMALE,ZS
+cor-35,Valeria,Globe_Shakespeare/cor.xml,,FEMALE,ZS
+cor-11,Gentlewoman,Globe_Shakespeare/cor.xml,,FEMALE,ZS
+cor-1,Adrian,Globe_Shakespeare/cor.xml,,MALE,ZS
+cor-14,Ladies,Globe_Shakespeare/cor.xml,,FEMALE,ZS
+cor-17,Lords,Globe_Shakespeare/cor.xml,,MALE,ZS
+cor-2,"Aedile, an",Globe_Shakespeare/cor.xml,,MALE,ZS
+cor-21,Messenger,Globe_Shakespeare/cor.xml,,MALE,ZS
+cor-22,Nicanor,Globe_Shakespeare/cor.xml,,MALE,ZS
+cor-23,"Noble, a",Globe_Shakespeare/cor.xml,,,
+cor-24,Officers,Globe_Shakespeare/cor.xml,,MALE,ZS
+cor-25,"Patrician, a",Globe_Shakespeare/cor.xml,,MALE,ZS
+cor-26,"Roman, a",Globe_Shakespeare/cor.xml,,,
+cor-27,Romans,Globe_Shakespeare/cor.xml,,,
+cor-28,Senators (Roman),Globe_Shakespeare/cor.xml,,MALE,ZS
+cor-29,Senators (Of Corioles),Globe_Shakespeare/cor.xml,,MALE,ZS
+cor-30,Servingmen,Globe_Shakespeare/cor.xml,,MALE,ZS
+cor-32,Soldiers,Globe_Shakespeare/cor.xml,,MALE,ZS
+cor-33,Titus Lartius,Globe_Shakespeare/cor.xml,,MALE,ZS
+cor-36,"Velutus, Sicinius",Globe_Shakespeare/cor.xml,,MALE,ZS
+cor-38,"Volsce, a",Globe_Shakespeare/cor.xml,,,
+cor-4,"Aufidius, Tullus",Globe_Shakespeare/cor.xml,,MALE,ZS
+cor-7,Citizens,Globe_Shakespeare/cor.xml,,,
+ant-26,Mark Antony,Globe_Shakespeare/ant.xml,,male,ADW
+ant-32,Octavius Csar,Globe_Shakespeare/ant.xml,,male,ADW
+ant-23,M. milius Lepidus,Globe_Shakespeare/ant.xml,,male,ADW
+ant-34,Sextus Pompeius,Globe_Shakespeare/ant.xml,,male,ADW
+ant-16,Domitius Enobarbus,Globe_Shakespeare/ant.xml,,male,ADW
+ant-49,Ventidius,Globe_Shakespeare/ant.xml,,male,ADW
+ant-17,Eros,Globe_Shakespeare/ant.xml,,male,ADW
+ant-37,Scarus,Globe_Shakespeare/ant.xml,,male,ADW
+ant-11,Dercetas,Globe_Shakespeare/ant.xml,,male,ADW
+ant-12,Demetrius,Globe_Shakespeare/ant.xml,,male,ADW
+ant-33,Philo,Globe_Shakespeare/ant.xml,,male,ADW
+ant-25,Mecnas,Globe_Shakespeare/ant.xml,,male,ADW
+ant-1,Agrippa,Globe_Shakespeare/ant.xml,,male,ADW
+ant-14,Dolabella,Globe_Shakespeare/ant.xml,,male,ADW
+ant-35,Proculeius,Globe_Shakespeare/ant.xml,,male,ADW
+ant-47,Thyreus,Globe_Shakespeare/ant.xml,,male,ADW
+ant-19,Gallus,Globe_Shakespeare/ant.xml,,male,ADW
+ant-28,Menas,Globe_Shakespeare/ant.xml,,male,ADW
+ant-29,Menecrates,Globe_Shakespeare/ant.xml,,male,ADW
+ant-48,Varius,Globe_Shakespeare/ant.xml,,male,ADW
+ant-46,Taurus,Globe_Shakespeare/ant.xml,,male,ADW
+ant-6,Canidius,Globe_Shakespeare/ant.xml,,male,ADW
+ant-43,Silius,Globe_Shakespeare/ant.xml,,male,ADW
+ant-18,Euphronius,Globe_Shakespeare/ant.xml,,male,ADW
+ant-2,Alexas,Globe_Shakespeare/ant.xml,,male,ADW
+ant-27,Mardian,Globe_Shakespeare/ant.xml,,male,ADW
+ant-39,Selucus,Globe_Shakespeare/ant.xml,,male,ADW
+ant-13,Diomedes,Globe_Shakespeare/ant.xml,,male,ADW
+ant-45,A Soothsayer.,Globe_Shakespeare/ant.xml,,male,ADW
+ant-10,A Clown.,Globe_Shakespeare/ant.xml,,male,ADW
+ant-9,Cleopatra,Globe_Shakespeare/ant.xml,,female,ADW
+ant-31,Octavia,Globe_Shakespeare/ant.xml,,female,ADW
+ant-8,Charmian,Globe_Shakespeare/ant.xml,,female,ADW
+ant-21,Iras,Globe_Shakespeare/ant.xml,,female,ADW
+ant-44,Soldiers,Globe_Shakespeare/ant.xml,,male,ADW
+ant-30,Messengers,Globe_Shakespeare/ant.xml,,male,ADW
+ant-5,Attendants,Globe_Shakespeare/ant.xml,,male,ADW
+ant-15,Egyptian,Globe_Shakespeare/ant.xml,,male,ADW
+ant-41,Servants,Globe_Shakespeare/ant.xml,,male,ADW
+ant-20,Guards,Globe_Shakespeare/ant.xml,,male,ADW
+ant-7,Captain,Globe_Shakespeare/ant.xml,,male,ADW
+all.,All,Globe_Shakespeare/mac.xml,,,ADW
+ang.,Angus,Globe_Shakespeare/mac.xml,,male,ADW
+aten.,Attendant,Globe_Shakespeare/mac.xml,,male,ADW
+ban.,Banquo,Globe_Shakespeare/mac.xml,,male,ADW
+both-mur.,Both Murderers,Globe_Shakespeare/mac.xml,,male,ADW
+caith.,Caithness,Globe_Shakespeare/mac.xml,,male,ADW
+doct.,Doctor,Globe_Shakespeare/mac.xml,,male,ADW
+don.,Donalbain,Globe_Shakespeare/mac.xml,,male,ADW
+dun.,Duncan,Globe_Shakespeare/mac.xml,,male,ADW
+first-app.,First Apparition,Globe_Shakespeare/mac.xml,,male,ADW
+first-mur.,First Murderer,Globe_Shakespeare/mac.xml,,male,ADW
+first-witch.,First Witch,Globe_Shakespeare/mac.xml,,female,ADW
+fle.,Fleance,Globe_Shakespeare/mac.xml,,male,ADW
+gent.,Gentlewoman,Globe_Shakespeare/mac.xml,,female,ADW
+hec.,Hecate,Globe_Shakespeare/mac.xml,,female,ADW
+l.-macd.,Lady Macduff,Globe_Shakespeare/mac.xml,,female,ADW
+lady-m.,Lady Macbeth,Globe_Shakespeare/mac.xml,,female,ADW
+len.,Lennox,Globe_Shakespeare/mac.xml,,male,ADW
+lord.,Lord,Globe_Shakespeare/mac.xml,,male,ADW
+lords.,Lords,Globe_Shakespeare/mac.xml,,male,ADW
+macb.,Macbeth,Globe_Shakespeare/mac.xml,,male,ADW
+macd.,Macduff,Globe_Shakespeare/mac.xml,,male,ADW
+mal.,Malcolm,Globe_Shakespeare/mac.xml,,male,ADW
+ment.,Menteith,Globe_Shakespeare/mac.xml,,male,ADW
+mess.,Messenger,Globe_Shakespeare/mac.xml,,male,ADW
+mur.,Murderer,Globe_Shakespeare/mac.xml,,male,ADW
+old-m.,Old Man,Globe_Shakespeare/mac.xml,,male,ADW
+port.,Porter,Globe_Shakespeare/mac.xml,,male,ADW
+porter.,Porter,Globe_Shakespeare/mac.xml,,male,ADW
+ross.,Ross,Globe_Shakespeare/mac.xml,,male,ADW
+sec.-app.,Second Apparition,Globe_Shakespeare/mac.xml,,male,ADW
+sec.-mur.,Second Murderer,Globe_Shakespeare/mac.xml,,male,ADW
+sec.-witch.,Second Witch,Globe_Shakespeare/mac.xml,,female,ADW
+ser.,Sergeant,Globe_Shakespeare/mac.xml,,male,ADW
+serv.,Servant,Globe_Shakespeare/mac.xml,,male,ADW
+serve.,Servant,Globe_Shakespeare/mac.xml,,male,ADW
+sey.,Seyton,Globe_Shakespeare/mac.xml,,male,ADW
+sin.,Siward,Globe_Shakespeare/mac.xml,,male,ADW
+sir.,Siward,Globe_Shakespeare/mac.xml,,male,ADW
+siw.,Siward,Globe_Shakespeare/mac.xml,,male,ADW
+soldier.,Soldier,Globe_Shakespeare/mac.xml,,male,ADW
+soldiers.,Soldier,Globe_Shakespeare/mac.xml,,male,ADW
+son.,Son to Macduff,Globe_Shakespeare/mac.xml,,male,ADW
+third-app.,Third Apparition,Globe_Shakespeare/mac.xml,,male,ADW
+third-mur.,Third Murderer,Globe_Shakespeare/mac.xml,,male,ADW
+third-witch.,Third Witch,Globe_Shakespeare/mac.xml,,female,ADW
+yo.-siw.,Young Siward,Globe_Shakespeare/mac.xml,,male,ADW
+prin.,ESCALUS,Globe_Shakespeare/rom.xml,,MALE,ZS
+par.,PARIS,Globe_Shakespeare/rom.xml,,MALE,ZS
+mon.,MONTAGUE,Globe_Shakespeare/rom.xml,,MALE,ZS
+cap.,CAPULET,Globe_Shakespeare/rom.xml,,MALE,ZS
+sec.-cap.,An old man,Globe_Shakespeare/rom.xml,,MALE,ZS
+rom.,ROMEO,Globe_Shakespeare/rom.xml,,MALE,ZS
+mer.,MERCUTIO,Globe_Shakespeare/rom.xml,,MALE,ZS
+ben.,BENVOLIO,Globe_Shakespeare/rom.xml,,MALE,ZS
+tyb.,TYBALT,Globe_Shakespeare/rom.xml,,MALE,ZS
+fri.-l.,FRIAR LAURENCE,Globe_Shakespeare/rom.xml,,MALE,ZS
+fri.-j.,FRIAR JOHN,Globe_Shakespeare/rom.xml,,MALE,ZS
+bal.,BALTHASAR,Globe_Shakespeare/rom.xml,,MALE,ZS
+sam.,SAMPSON,Globe_Shakespeare/rom.xml,,MALE,ZS
+gre.,GREGORY,Globe_Shakespeare/rom.xml,,MALE,ZS
+pet.,PETER,Globe_Shakespeare/rom.xml,,MALE,ZS
+abr.,ABRAHAM,Globe_Shakespeare/rom.xml,,MALE,ZS
+ap.,An Apothecary,Globe_Shakespeare/rom.xml,,,
+first-mus.,First Musician,Globe_Shakespeare/rom.xml,,,
+sec.-mus.,Second Musician,Globe_Shakespeare/rom.xml,,,
+third-mus.,Third Musician,Globe_Shakespeare/rom.xml,,,
+page.,Page to Paris,Globe_Shakespeare/rom.xml,,,
+la.-mon.,LADY MONTAGUE,Globe_Shakespeare/rom.xml,,FEMALE,ZS
+la.-cap.,LADY CAPULET,Globe_Shakespeare/rom.xml,,FEMALE,ZS
+jul.,JULIET,Globe_Shakespeare/rom.xml,,FEMALE,ZS
+nurse.,Nurse to Juliet,Globe_Shakespeare/rom.xml,,FEMALE,ZS
+first-watch.,First Watchman,Globe_Shakespeare/rom.xml,,MALE,ZS
+sec.-watch.,Second Watchman,Globe_Shakespeare/rom.xml,,,
+third-watch.,Third Watchman,Globe_Shakespeare/rom.xml,,,
+first-cit.,First Citizen,Globe_Shakespeare/rom.xml,,,
+first-serv.,First Servant,Globe_Shakespeare/rom.xml,,,
+sec.-serv.,Second Servant,Globe_Shakespeare/rom.xml,,,
+serv.,Servant,Globe_Shakespeare/rom.xml,,,
+chorus.,Chorus,Globe_Shakespeare/rom.xml,,,
+king.,KING HENRY the Eighth,Globe_Shakespeare/h8.xml,,male,
+wol.,CARDINAL WOLSEY,Globe_Shakespeare/h8.xml,,male,
+cam.,CARDINAL CAMPEIUS,Globe_Shakespeare/h8.xml,,male,
+cap.,CAPUCIUS,Globe_Shakespeare/h8.xml,,male,
+cran.,CRANMER,Globe_Shakespeare/h8.xml,,male,
+nor.,DUKE OF NORFOLK,Globe_Shakespeare/h8.xml,,male,
+buck.,DUKE OF BUCKINGHAM,Globe_Shakespeare/h8.xml,,male,
+suf.,DUKE OF SUFFOLK,Globe_Shakespeare/h8.xml,,male,
+sur.,EARL OF SURREY,Globe_Shakespeare/h8.xml,,male,
+cham.,Lord Chamberlain,Globe_Shakespeare/h8.xml,,male,
+chan.,Lord Chancellor,Globe_Shakespeare/h8.xml,,male,
+gar.,GARDINER,Globe_Shakespeare/h8.xml,,male,
+lin.,Bishop of Lincoln,Globe_Shakespeare/h8.xml,,male,
+aber.,LORD ABERGAVENNY,Globe_Shakespeare/h8.xml,,male,
+sands.,LORD SANDS,Globe_Shakespeare/h8.xml,,male,
+guild.,SIR HENRY GUILDFORD,Globe_Shakespeare/h8.xml,,male,
+lov.,SIR THOMAS LOVELL,Globe_Shakespeare/h8.xml,,male,
+den.,SIR ANTHONY DENNY,Globe_Shakespeare/h8.xml,,male,
+vaux.,SIR NICHOLAS VAUX,Globe_Shakespeare/h8.xml,,male,
+first-secr.,First Secretary,Globe_Shakespeare/h8.xml,,male,
+crom.,CROMWELL,Globe_Shakespeare/h8.xml,,male,
+grif.,GRIFFITH,Globe_Shakespeare/h8.xml,,male,
+first-gent.,First Gentleman,Globe_Shakespeare/h8.xml,,male,
+sec.-gent.,Second Gentleman,Globe_Shakespeare/h8.xml,,male,
+third-gent.,Third Gentleman,Globe_Shakespeare/h8.xml,,male,
+butts.,DOCTOR BUTTS,Globe_Shakespeare/h8.xml,,male,
+gart.,Garter King-at-Arms,Globe_Shakespeare/h8.xml,,male,
+surv.,Surveyor to the Duke of Buckingham,Globe_Shakespeare/h8.xml,,male,
+bran.,BRANDON,Globe_Shakespeare/h8.xml,,male,
+serg.,a Sergeant-at-Arms,Globe_Shakespeare/h8.xml,,male,
+keep.,Door-Keeper of the Council-chamber,Globe_Shakespeare/h8.xml,,male,
+port.,Porter,Globe_Shakespeare/h8.xml,,male,
+man.,His Man,Globe_Shakespeare/h8.xml,,male,
+boy.,Page to Gardiner,Globe_Shakespeare/h8.xml,,male,
+crier.,A Crier,Globe_Shakespeare/h8.xml,,male,
+q.-kath.,QUEEN KATHARINE,Globe_Shakespeare/h8.xml,,female,
+kath.,QUEEN KATHARINE,Globe_Shakespeare/h8.xml,,female,
+anne.,ANNE BULLEN,Globe_Shakespeare/h8.xml,,female,
+old-l.,An old Lady,Globe_Shakespeare/h8.xml,,female,
+pat.,PATIENCE,Globe_Shakespeare/h8.xml,,female,
+gent.,Gentlewoman,Globe_Shakespeare/h8.xml,,female,
+mess.,Messenger,Globe_Shakespeare/h8.xml,,male,
+scribe.,Scribe,Globe_Shakespeare/h8.xml,,male,
+serv.,Servant,Globe_Shakespeare/h8.xml,,male,
+both.,Both Gentlemen together,Globe_Shakespeare/h8.xml,,male,
+all.,All,Globe_Shakespeare/h8.xml,,,
+k.-hen.,KING HENRY the Fifth,Globe_Shakespeare/h5.xml,,male,
+glou.,DUKE OF GLOUCESTER,Globe_Shakespeare/h5.xml,,male,
+bed.,DUKE OF BEDFORD,Globe_Shakespeare/h5.xml,,male,
+exe.,DUKE OF EXETER,Globe_Shakespeare/h5.xml,,male,
+york.,DUKE OF YORK,Globe_Shakespeare/h5.xml,,male,
+sal.,EARL OF SALISBURY,Globe_Shakespeare/h5.xml,,male,
+west.,EARL OF WESTMORELAND,Globe_Shakespeare/h5.xml,,male,
+war.,EARL OF WARWICK,Globe_Shakespeare/h5.xml,,male,
+cant.,ARCHBISHOP OF CANTERBURY,Globe_Shakespeare/h5.xml,,male,
+ely.,BISHOP OF ELY,Globe_Shakespeare/h5.xml,,male,
+cam.,EARL OF CAMBRIDGE,Globe_Shakespeare/h5.xml,,male,
+scroop.,LORD SCROOP,Globe_Shakespeare/h5.xml,,male,
+grey.,SIR THOMAS GREY,Globe_Shakespeare/h5.xml,,male,
+erp.,SIR THOMAS ERPINGHAM,Globe_Shakespeare/h5.xml,,male,
+gow.,GOWER,Globe_Shakespeare/h5.xml,,male,
+flu.,FLUELLEN,Globe_Shakespeare/h5.xml,,male,
+mac.,MACMORRIS,Globe_Shakespeare/h5.xml,,male,
+jamy.,JAMY,Globe_Shakespeare/h5.xml,,male,
+bates.,BATES,Globe_Shakespeare/h5.xml,,male,
+court.,COURT,Globe_Shakespeare/h5.xml,,male,
+will.,WILLIAMS,Globe_Shakespeare/h5.xml,,male,
+pist.,PISTOL,Globe_Shakespeare/h5.xml,,male,
+nym.,NYM,Globe_Shakespeare/h5.xml,,male,
+bard.,BARDOLPH,Globe_Shakespeare/h5.xml,,male,
+boy.,Boy,Globe_Shakespeare/h5.xml,,male,
+her.,A Herald,Globe_Shakespeare/h5.xml,,male,
+fr.-king.,CHARLES the Sixth,Globe_Shakespeare/h5.xml,,male,
+dau.,LEWIS,Globe_Shakespeare/h5.xml,,male,
+bur.,DUKE OF BURGUNDY,Globe_Shakespeare/h5.xml,,male,
+orl.,DUKE OF ORLEANS,Globe_Shakespeare/h5.xml,,male,
+bour.,DUKE OF BOURBON,Globe_Shakespeare/h5.xml,,male,
+con.,The Constable of France,Globe_Shakespeare/h5.xml,,male,
+ram.,RAMBURES,Globe_Shakespeare/h5.xml,,male,
+grand.,GRANDPRE,Globe_Shakespeare/h5.xml,,male,
+gov.,Governor of Harfleur,Globe_Shakespeare/h5.xml,,male,
+mont.,MONTJOY,Globe_Shakespeare/h5.xml,,male,
+first-amb.,Ambassadors to the King of England,Globe_Shakespeare/h5.xml,,male,
+q.-isa.,ISABEL,Globe_Shakespeare/h5.xml,,female,
+kath.,KATHERINE,Globe_Shakespeare/h5.xml,,female,
+alice.,ALICE,Globe_Shakespeare/h5.xml,,female,
+host.,"Hostess of a tavern in Eastcheap, formerly Mistress Quickly",Globe_Shakespeare/h5.xml,,female,
+fr.-sol.,French Soldier,Globe_Shakespeare/h5.xml,,male,
+mess.,Messenger(s),Globe_Shakespeare/h5.xml,,male,
+all.,All,Globe_Shakespeare/h5.xml,,,
+chor.,Chorus,Globe_Shakespeare/h5.xml,,,
+k.-hen.,KING HENRY the Sixth,Globe_Shakespeare/3h6.xml,,male,
+prince.,EDWARD,Globe_Shakespeare/3h6.xml,,male,
+k.-lew.,LEWIS XI.,Globe_Shakespeare/3h6.xml,,male,
+som.,DUKE OF SOMERSET,Globe_Shakespeare/3h6.xml,,male,
+exe.,DUKE OF EXETER,Globe_Shakespeare/3h6.xml,,male,
+oxf.,EARL OF OXFORD,Globe_Shakespeare/3h6.xml,,male,
+north.,EARL OF NORTHUMBERLAND,Globe_Shakespeare/3h6.xml,,male,
+west.,EARL OF WESTMORELAND,Globe_Shakespeare/3h6.xml,,male,
+clif.,LORD CLIFFORD,Globe_Shakespeare/3h6.xml,,male,
+york.,RICHARD PLANTAGENET,Globe_Shakespeare/3h6.xml,,male,
+edw.,EDWARD,Globe_Shakespeare/3h6.xml,,male,
+k.-edw.,EDWARD,Globe_Shakespeare/3h6.xml,,male,
+rut.,EDMUND,Globe_Shakespeare/3h6.xml,,male,
+geo.,GEORGE,Globe_Shakespeare/3h6.xml,,male,
+clar.,GEORGE,Globe_Shakespeare/3h6.xml,,male,
+rich.,RICHARD,Globe_Shakespeare/3h6.xml,,male,
+glou.,RICHARD,Globe_Shakespeare/3h6.xml,,male,
+norf.,DUKE OF NORFOLK,Globe_Shakespeare/3h6.xml,,male,
+mont.,MARQUESS OF MONTAGUE,Globe_Shakespeare/3h6.xml,,male,
+war.,EARL OF WARWICK,Globe_Shakespeare/3h6.xml,,male,
+hast.,LORD HASTINGS,Globe_Shakespeare/3h6.xml,,male,
+sir-john.,SIR JOHN MORTIMER,Globe_Shakespeare/3h6.xml,,male,
+riv.,LORD RIVERS,Globe_Shakespeare/3h6.xml,,male,
+tut.,Tutor to Rutland,Globe_Shakespeare/3h6.xml,,male,
+may.,Mayor of York,Globe_Shakespeare/3h6.xml,,male,
+lieu.,Lieutenant of the Tower,Globe_Shakespeare/3h6.xml,,male,
+nob.,A Nobleman,Globe_Shakespeare/3h6.xml,,male,
+first-keep.,First Keeper,Globe_Shakespeare/3h6.xml,,male,
+sec.-keep.,Second Keeper,Globe_Shakespeare/3h6.xml,,male,
+hunt.,A Huntsman,Globe_Shakespeare/3h6.xml,,male,
+son.,A Son that has killed his father,Globe_Shakespeare/3h6.xml,,male,
+fath.,A Father that has killed his son,Globe_Shakespeare/3h6.xml,,male,
+q.-mar.,QUEEN MARGARET,Globe_Shakespeare/3h6.xml,,female,
+l.-grey.,LADY GREY,Globe_Shakespeare/3h6.xml,,female,
+bona.,BONA,Globe_Shakespeare/3h6.xml,,female,
+soldiers.,Soldiers,Globe_Shakespeare/3h6.xml,,male,
+sold.,Soldier,Globe_Shakespeare/3h6.xml,,male,
+first-mess.,First Messenger,Globe_Shakespeare/3h6.xml,,male,
+second-mess.,Second  Messenger,Globe_Shakespeare/3h6.xml,,male,
+mess.,Messenger,Globe_Shakespeare/3h6.xml,,male,
+first-watch.,First Watchman,Globe_Shakespeare/3h6.xml,,male,
+second-watch.,Second Watchman,Globe_Shakespeare/3h6.xml,,male,
+third-watch.,Third Watchman,Globe_Shakespeare/3h6.xml,,male,
+post.,Post,Globe_Shakespeare/3h6.xml,,male,
+all,All,Globe_Shakespeare/3h6.xml,,,
+lord.,A Lord,Globe_Shakespeare/shr.xml,,male,
+sly.,CHRISTOPHER SLY,Globe_Shakespeare/shr.xml,,male,
+host.,Hostess,Globe_Shakespeare/shr.xml,,female,
+page.,Page,Globe_Shakespeare/shr.xml,,female,
+players.,Players,Globe_Shakespeare/shr.xml,,,
+first-hun.,Huntsmen,Globe_Shakespeare/shr.xml,,male,
+mess.,Messenger,Globe_Shakespeare/shr.xml,,male,
+serv.,Servant,Globe_Shakespeare/shr.xml,,male,
+first-serv.,First Servant,Globe_Shakespeare/shr.xml,,male,
+sec.-serv.,Second Servant,Globe_Shakespeare/shr.xml,,male,
+third-serv.,Third Servant,Globe_Shakespeare/shr.xml,,male,
+bap.,BAPTISTA,Globe_Shakespeare/shr.xml,,male,
+vin.,VINCENTIO,Globe_Shakespeare/shr.xml,,male,
+luc.,LUCENTIO,Globe_Shakespeare/shr.xml,,male,
+pet.,PETRUCHIO,Globe_Shakespeare/shr.xml,,male,
+gre.,GREMIO,Globe_Shakespeare/shr.xml,,male,
+hor.,HORTENSIO,Globe_Shakespeare/shr.xml,,male,
+tra.,TRANIO,Globe_Shakespeare/shr.xml,,male,
+bion.,BIONDELLO,Globe_Shakespeare/shr.xml,,male,
+gru.,GRUMIO,Globe_Shakespeare/shr.xml,,male,
+curt.,CURTIS,Globe_Shakespeare/shr.xml,,male,
+nath.,Nathaniel,Globe_Shakespeare/shr.xml,,male,
+phil.,Philip,Globe_Shakespeare/shr.xml,,male,
+jos.,Joseph,Globe_Shakespeare/shr.xml,,male,
+nich.,Nicholas,Globe_Shakespeare/shr.xml,,male,
+ped.,A Pedant,Globe_Shakespeare/shr.xml,,,
+kath.,KATHARINA,Globe_Shakespeare/shr.xml,,female,
+bian.,BIANCA,Globe_Shakespeare/shr.xml,,female,
+wid.,Widow,Globe_Shakespeare/shr.xml,,female,
+all.,All,Globe_Shakespeare/shr.xml,,,
+tai.,Tailor,Globe_Shakespeare/shr.xml,,male,
+hab.,Haberdasher,Globe_Shakespeare/shr.xml,,male,
+king.,KING HENRY the Sixth,Globe_Shakespeare/1h6.xml,,Male,MP
+glou.,DUKE OF GLOUCESTER,Globe_Shakespeare/1h6.xml,,Male,MP
+bed.,DUKE OF BEDFORD,Globe_Shakespeare/1h6.xml,,Male,MP
+exe.,THOMAS BEAUFORT,Globe_Shakespeare/1h6.xml,,Male,MP
+win.,HENRY BEAUFORT,Globe_Shakespeare/1h6.xml,,Male,MP
+car.,HENRY BEAUFORT,Globe_Shakespeare/1h6.xml,,Male,MP
+som.,JOHN BEAUFORT,Globe_Shakespeare/1h6.xml,,Male,MP
+york.,RICHARD PLANTAGENET,Globe_Shakespeare/1h6.xml,,Male,MP
+plan.,RICHARD PLANTAGENET,Globe_Shakespeare/1h6.xml,,Male,MP
+war.,EARL OF WARWICK,Globe_Shakespeare/1h6.xml,,Male,MP
+sal.,EARL OF SALISBURY,Globe_Shakespeare/1h6.xml,,Male,MP
+suf.,EARL OF SUFFOLK,Globe_Shakespeare/1h6.xml,,Male ,MP
+tal.,LORD TALBOT,Globe_Shakespeare/1h6.xml,,Male,MP
+john.,JOHN TALBOT,Globe_Shakespeare/1h6.xml,,Male,MP
+mor.,EDMUND MORTIMER,Globe_Shakespeare/1h6.xml,,Male,MP
+fast.,SIR JOHN FASTOLFE,Globe_Shakespeare/1h6.xml,,Male,MP
+lucy.,SIR WILLIAM LUCY,Globe_Shakespeare/1h6.xml,,Male,MP
+glan.,SIR WILLIAM GLANSDALE,Globe_Shakespeare/1h6.xml,,Male,MP
+gar.,SIR THOMAS GARGRAVE,Globe_Shakespeare/1h6.xml,,Male,MP
+may.,Mayor of London,Globe_Shakespeare/1h6.xml,,Male,MP
+woodv.,WOODVILLE,Globe_Shakespeare/1h6.xml,,Male,MP
+ver.,VERNON,Globe_Shakespeare/1h6.xml,,Male,MP
+bas.,BASSET,Globe_Shakespeare/1h6.xml,,Male,MP
+law.,A Lawyer,Globe_Shakespeare/1h6.xml,,Male,MP
+char.,CHARLES,Globe_Shakespeare/1h6.xml,,Male,MP
+reig.,REIGNER,Globe_Shakespeare/1h6.xml,,Male,MP
+bur.,DUKE OF BURGUNDY,Globe_Shakespeare/1h6.xml,,Male,MP
+alen.,DUKE OF ALENCON,Globe_Shakespeare/1h6.xml,,Male,MP
+bast.,BASTARD OF ORLEANS,Globe_Shakespeare/1h6.xml,,Male,MP
+m.-gun.,Master-Gunner of Orleans,Globe_Shakespeare/1h6.xml,,Male,MP
+boy.,his Son,Globe_Shakespeare/1h6.xml,,Male,MP
+gen.,General of the French forces in Bourdeaux,Globe_Shakespeare/1h6.xml,,Male,MP
+serg.,A French Sergeant,Globe_Shakespeare/1h6.xml,,Male,MP
+port.,A Porter,Globe_Shakespeare/1h6.xml,,Male,MP
+shep.,An Old Shepherd,Globe_Shakespeare/1h6.xml,,Male,MP
+mar.,MARGARET,Globe_Shakespeare/1h6.xml,,Female,MP
+count.,COUNTESS OF AUVERGNE,Globe_Shakespeare/1h6.xml,,Female,MP
+puc.,JOAN LA PUCELLE,Globe_Shakespeare/1h6.xml,,Female,MP
+first-gaol.,First Gaoler,Globe_Shakespeare/1h6.xml,,Female,MP
+serv.,Servant,Globe_Shakespeare/1h6.xml,,Female,MP
+first-serv.,First Servant,Globe_Shakespeare/1h6.xml,,Female,MP
+sec.-serv.,Second Servant,Globe_Shakespeare/1h6.xml,,Female,MP
+third-serv.,Third Servant,Globe_Shakespeare/1h6.xml,,Female,MP
+watch.,Watch,Globe_Shakespeare/1h6.xml,,Female,MP
+first-warder.,First Warder of the Tower,Globe_Shakespeare/1h6.xml,,Female,MP
+second-warder.,Second Warder of the Tower,Globe_Shakespeare/1h6.xml,,Female,MP
+leg.,Legate,Globe_Shakespeare/1h6.xml,,Male,MP
+all.,All,Globe_Shakespeare/1h6.xml,,Male,MP
+sent.,Sentinel,Globe_Shakespeare/1h6.xml,,Male,MP
+first-sent.,First Sentinel,Globe_Shakespeare/1h6.xml,,Male,MP
+scout.,Scout,Globe_Shakespeare/1h6.xml,,Male,MP
+off.,Officers,Globe_Shakespeare/1h6.xml,,Male,MP
+cap.,Captain,Globe_Shakespeare/1h6.xml,,Male,MP
+soldiers.,Soldiers,Globe_Shakespeare/1h6.xml,,Male,MP
+sold.,Soldier,Globe_Shakespeare/1h6.xml,,Male,MP
+first-sol.,First Soldier,Globe_Shakespeare/1h6.xml,,Male,MP
+mess.,Messengers,Globe_Shakespeare/1h6.xml,,Male,MP
+k.-john.,KING JOHN,Globe_Shakespeare/jn.xml,,Male,MP
+p.-hen.,PRINCE HENRY,Globe_Shakespeare/jn.xml,,Male,MP
+arth.,"ARTHUR, Duke of Bretagne",Globe_Shakespeare/jn.xml,,Male,MP
+pem.,The Earl of PEMBROKE,Globe_Shakespeare/jn.xml,,Male,MP
+sal.,The Earl of SALISBURY,Globe_Shakespeare/jn.xml,,Male,MP
+big.,The Lord BIGOT,Globe_Shakespeare/jn.xml,,Male,MP
+hub.,HUBERT DE BURGH,Globe_Shakespeare/jn.xml,,Male,MP
+rob.,ROBERT FAULCONBRIDGE,Globe_Shakespeare/jn.xml,,Male,MP
+bast.,PHILIP the BASTARD,Globe_Shakespeare/jn.xml,,Male,MP
+lew.,LEWIS,Globe_Shakespeare/jn.xml,,Male,MP
+aust.,LYMOGES,Globe_Shakespeare/jn.xml,,Male,MP
+pand.,CARDINAL PANDULPH,Globe_Shakespeare/jn.xml,,Male,MP
+mel.,MELUN,Globe_Shakespeare/jn.xml,,Male,MP
+chat.,CHATILLON,Globe_Shakespeare/jn.xml,,Male,MP
+eli.,QUEEN ELINOR,Globe_Shakespeare/jn.xml,,Female,MP
+const.,CONSTANCE,Globe_Shakespeare/jn.xml,,Female,MP
+blanch.,BLANCH of Spain,Globe_Shakespeare/jn.xml,,Female,MP
+lady-f.,LADY FAULCONBRIDGE,Globe_Shakespeare/jn.xml,,Female,MP
+gur.,JAMES GURNEY,Globe_Shakespeare/jn.xml,,Male,MP
+k.-phi.,KING PHILIP,Globe_Shakespeare/jn.xml,,Male,MP
+fir.-cit.,FIRST CITIZEN,Globe_Shakespeare/jn.xml,,Male,MP
+f.-her.,FRENCH HERALD,Globe_Shakespeare/jn.xml,,Male,MP
+e.-her.,ENGLISH HERALD,Globe_Shakespeare/jn.xml,,Male,MP
+fir.-ex.,FIRST EXECUTIONER,Globe_Shakespeare/jn.xml,,Male,MP
+mess.,MESSENGER,Globe_Shakespeare/jn.xml,,Male,MP
+pet.,PETER,Globe_Shakespeare/jn.xml,,MALE,JF
+fal.,SIR JOHN FALSTAFF,Globe_Shakespeare/wiv.xml,,MALE,JF
+fent.,FENTON,Globe_Shakespeare/wiv.xml,,MALE,JF
+shal.,SHALLOW,Globe_Shakespeare/wiv.xml,,MALE,JF
+slen.,SLENDER,Globe_Shakespeare/wiv.xml,,MALE,JF
+ford.,FORD,Globe_Shakespeare/wiv.xml,,MALE,JF
+page.,PAGE,Globe_Shakespeare/wiv.xml,,MALE,JF
+will.,WILLIAM PAGE,Globe_Shakespeare/wiv.xml,,MALE,JF
+evans.,SIR HUGH EVANS,Globe_Shakespeare/wiv.xml,,MALE,JF
+caius.,DOCTOR CAIUS,Globe_Shakespeare/wiv.xml,,MALE,JF
+host.,Host,Globe_Shakespeare/wiv.xml,,MALE,JF
+bard.,BARDOLPH,Globe_Shakespeare/wiv.xml,,MALE,JF
+pist.,PISTOL,Globe_Shakespeare/wiv.xml,,MALE,JF
+nym.,NYM,Globe_Shakespeare/wiv.xml,,MALE,JF
+rob.,ROBIN,Globe_Shakespeare/wiv.xml,,MALE,JF
+sim.,SIMPLE,Globe_Shakespeare/wiv.xml,,MALE,JF
+rug.,RUGBY,Globe_Shakespeare/wiv.xml,,MALE,JF
+mrs.-ford.,MISTRESS FORD,Globe_Shakespeare/wiv.xml,,FEMALE,JF
+mrs.-page.,MISTRESS PAGE,Globe_Shakespeare/wiv.xml,,FEMALE,JF
+anne.,ANNE PAGE,Globe_Shakespeare/wiv.xml,,FEMALE,JF
+quick.,MISTRESS QUICKLY,Globe_Shakespeare/wiv.xml,,FEMALE,JF
+first-serv.,First Servant,Globe_Shakespeare/wiv.xml,,MALE,JF
+sec.-serv.,Second Servant,Globe_Shakespeare/wiv.xml,,MALE,JF
+serv.,Servant,Globe_Shakespeare/wiv.xml,,MALE,JF
+all.,All,Globe_Shakespeare/wiv.xml,,,
+the.,THESEUS,Globe_Shakespeare/mnd.xml,,MALE,JF
+ege.,EGEUS,Globe_Shakespeare/mnd.xml,,MALE,JF
+lys.,LYSANDER,Globe_Shakespeare/mnd.xml,,MALE,JF
+dem.,DEMETRIUS,Globe_Shakespeare/mnd.xml,,MALE,JF
+phil.,PHILOSTRATE,Globe_Shakespeare/mnd.xml,,MALE,JF
+quin.,QUINCE,Globe_Shakespeare/mnd.xml,,MALE,JF
+snug.,SNUG,Globe_Shakespeare/mnd.xml,,MALE,JF
+bot.,BOTTOM,Globe_Shakespeare/mnd.xml,,MALE,JF
+flu.,FLUTE,Globe_Shakespeare/mnd.xml,,MALE,JF
+snout.,SNOUT,Globe_Shakespeare/mnd.xml,,MALE,JF
+star.,STARVELING,Globe_Shakespeare/mnd.xml,,MALE,JF
+hip.,HIPPOLYTA,Globe_Shakespeare/mnd.xml,,MALE,JF
+her.,HERMIA,Globe_Shakespeare/mnd.xml,,FEMALE,JF
+hel.,HELENA,Globe_Shakespeare/mnd.xml,,FEMALE,JF
+obe.,OBERON,Globe_Shakespeare/mnd.xml,,MALE,JF
+tita.,TITANIA,Globe_Shakespeare/mnd.xml,,FEMALE,JF
+puck.,PUCK,Globe_Shakespeare/mnd.xml,,MALE,JF
+peas.,PEASEBLOSSOM,Globe_Shakespeare/mnd.xml,,,
+cob.,COBWEB,Globe_Shakespeare/mnd.xml,,,
+moth.,MOTH,Globe_Shakespeare/mnd.xml,,,
+mus.,MUSTARDSEED,Globe_Shakespeare/mnd.xml,,,
+pro.,Prologue,Globe_Shakespeare/mnd.xml,,MALE,JF
+pyr.,Pyramus,Globe_Shakespeare/mnd.xml,,MALE,JF
+this.,Thisbe,Globe_Shakespeare/mnd.xml,,FEMALE,JF
+lion.,Lion,Globe_Shakespeare/mnd.xml,,MALE,JF
+wall.,Wall,Globe_Shakespeare/mnd.xml,,MALE,JF
+moon.,Moon,Globe_Shakespeare/mnd.xml,,MALE,JF
+all.,All,Globe_Shakespeare/mnd.xml,,,
+fai.,Other fairies attending their King and Queen,Globe_Shakespeare/mnd.xml,,,
+duke.,DUKE OF VENICE,Globe_Shakespeare/oth.xml,,MALE,JF
+bra.,BRABANTIO,Globe_Shakespeare/oth.xml,,MALE,JF
+sen.,Other Senators,Globe_Shakespeare/oth.xml,,MALE,JF
+gra.,GRATIANO,Globe_Shakespeare/oth.xml,,MALE,JF
+lod.,LODOVICO,Globe_Shakespeare/oth.xml,,MALE,JF
+oth.,OTHELLO,Globe_Shakespeare/oth.xml,,MALE,JF
+cas.,CASSIO,Globe_Shakespeare/oth.xml,,MALE,JF
+iago.,IAGO,Globe_Shakespeare/oth.xml,,MALE,JF
+rod.,RODERIGO,Globe_Shakespeare/oth.xml,,MALE,JF
+mon.,MONTANO,Globe_Shakespeare/oth.xml,,MALE,JF
+clo.,Clown,Globe_Shakespeare/oth.xml,,MALE,JF
+des.,DESDEMONA,Globe_Shakespeare/oth.xml,,FEMALE,JF
+emil.,EMILIA,Globe_Shakespeare/oth.xml,,FEMALE,JF
+bian.,BIANCA,Globe_Shakespeare/oth.xml,,FEMALE,JF
+sailor,Sailor,Globe_Shakespeare/oth.xml,,,
+mess.,Messenger,Globe_Shakespeare/oth.xml,,,
+her.,Herald,Globe_Shakespeare/oth.xml,,,
+officer,Officers,Globe_Shakespeare/oth.xml,,,
+gent.,Gentlemen,Globe_Shakespeare/oth.xml,,MALE,JF
+mus.,Musicians,Globe_Shakespeare/oth.xml,,,
+all.,All.,Globe_Shakespeare/oth.xml,,,
+pri.,PRIAM,Globe_Shakespeare/tro.xml,,MALE,JF
+hect.,HECTOR,Globe_Shakespeare/tro.xml,,MALE,JF
+tro.,TROILUS,Globe_Shakespeare/tro.xml,,MALE,JF
+par.,PARIS,Globe_Shakespeare/tro.xml,,MALE,JF
+dei.,DEIPHOBUS,Globe_Shakespeare/tro.xml,,MALE,JF
+hel.,HELENUS,Globe_Shakespeare/tro.xml,,MALE,JF
+mar.,MARGARELON,Globe_Shakespeare/tro.xml,,MALE,JF
+aene.,AENEAS,Globe_Shakespeare/tro.xml,,MALE,JF
+cal.,CALCHAS,Globe_Shakespeare/tro.xml,,MALE,JF
+pan.,PANDARUS,Globe_Shakespeare/tro.xml,,MALE,JF
+agam.,AGAMEMNON,Globe_Shakespeare/tro.xml,,MALE,JF
+men.,MENELAUS,Globe_Shakespeare/tro.xml,,MALE,JF
+achil.,ACHILLES,Globe_Shakespeare/tro.xml,,MALE,JF
+ajax.,AJAX,Globe_Shakespeare/tro.xml,,MALE,JF
+ulyss.,ULYSSES,Globe_Shakespeare/tro.xml,,MALE,JF
+nest.,NESTOR,Globe_Shakespeare/tro.xml,,MALE,JF
+dio.,DIOMEDES,Globe_Shakespeare/tro.xml,,MALE,JF
+patr.,PATROCLUS,Globe_Shakespeare/tro.xml,,MALE,JF
+ther.,THERSITES,Globe_Shakespeare/tro.xml,,MALE,JF
+alex.,ALEXANDER,Globe_Shakespeare/tro.xml,,MALE,JF
+boy.,Servant to Troilus,Globe_Shakespeare/tro.xml,,,
+serv.,Servant to Paris,Globe_Shakespeare/tro.xml,,,
+dio.-serv.,Servant to Diomedes,Globe_Shakespeare/tro.xml,,,
+helen.,HELEN,Globe_Shakespeare/tro.xml,,,
+and.,ANDROMACHE,Globe_Shakespeare/tro.xml,,,
+cas.,CASSANDRA,Globe_Shakespeare/tro.xml,,,
+cres.,CRESSIDA,Globe_Shakespeare/tro.xml,,,
+myr.,Myrmidon,Globe_Shakespeare/tro.xml,,,
+duke.,ORSINO,Globe_Shakespeare/tn.xml,,,
+seb.,SEBASTIAN,Globe_Shakespeare/tn.xml,,,
+ant.,ANTONIO,Globe_Shakespeare/tn.xml,,,
+cap.,A Sea Captain,Globe_Shakespeare/tn.xml,,,
+val.,VALENTINE,Globe_Shakespeare/tn.xml,,,
+cur.,CURIO,Globe_Shakespeare/tn.xml,,,
+sir-to.,SIR TOBY BELCH,Globe_Shakespeare/tn.xml,,,
+sir-and.,SIR ANDREW AGUECHEEK,Globe_Shakespeare/tn.xml,,,
+mal.,MALVOLIO,Globe_Shakespeare/tn.xml,,,
+fab.,FABIAN,Globe_Shakespeare/tn.xml,,,
+clo.,FESTE,Globe_Shakespeare/tn.xml,,,
+oli.,OLIVIA,Globe_Shakespeare/tn.xml,,,
+vio.,VIOLA,Globe_Shakespeare/tn.xml,,,
+mar.,MARIA,Globe_Shakespeare/tn.xml,,,
+priest.,Priests,Globe_Shakespeare/tn.xml,,,
+first-off.,First Officer,Globe_Shakespeare/tn.xml,,,
+sec.-off.,Second Officer,Globe_Shakespeare/tn.xml,,,
+ser.,Servant,Globe_Shakespeare/tn.xml,,,
+duke.,SOLINUS,Globe_Shakespeare/err.xml,,male,RW
+aege.,GEON,Globe_Shakespeare/err.xml,,male,RW
+ant.-e.,ANTIPHOLUS of Ephesus,Globe_Shakespeare/err.xml,,male,RW
+ant.-s.,ANTIPHOLUS of Syracuse,Globe_Shakespeare/err.xml,,male,RW
+dro.-e.,DROMIO of Ephsus,Globe_Shakespeare/err.xml,,male,RW
+dro.-s.,DROMIO of Syracuse,Globe_Shakespeare/err.xml,,male,RW
+bal.,BALTHAZAR,Globe_Shakespeare/err.xml,,male,RW
+ang.,ANGELO,Globe_Shakespeare/err.xml,,male,RW
+first-mer.,First Merchant,Globe_Shakespeare/err.xml,,male,RW
+sec.-mer.,Second Merchant,Globe_Shakespeare/err.xml,,male,RW
+pinch.,PINCH,Globe_Shakespeare/err.xml,,male,RW
+abb.,"MILIA, wife to geon",Globe_Shakespeare/err.xml,,female,RW
+adr.,ADRIANA,Globe_Shakespeare/err.xml,,female,RW
+luc.,LUCIANA,Globe_Shakespeare/err.xml,,female,RW
+luce.,LUCE,Globe_Shakespeare/err.xml,,female,RW
+cour.,A Courtezan,Globe_Shakespeare/err.xml,,female,RW
+off.,An Officer,Globe_Shakespeare/err.xml,,male,RW
+serv.,A Servant,Globe_Shakespeare/err.xml,,male,RW
+gaol.,A Gaoler,Globe_Shakespeare/err.xml,,male,RW
+leon.,LEONTES,Globe_Shakespeare/wt.xml,,male,RW
+mam.,MAMILLIUS,Globe_Shakespeare/wt.xml,,male,RW
+cam.,CAMILLO,Globe_Shakespeare/wt.xml,,male,RW
+ant.,ANTIGONUS,Globe_Shakespeare/wt.xml,,male,RW
+cleo.,CLEOMENES,Globe_Shakespeare/wt.xml,,male,RW
+dion.,DION,Globe_Shakespeare/wt.xml,,male,RW
+pol.,POLIXENES,Globe_Shakespeare/wt.xml,,male,RW
+flo.,FLORIZEL,Globe_Shakespeare/wt.xml,,male,RW
+arch.,ARCHIDAMUS,Globe_Shakespeare/wt.xml,,male,RW
+shep.,Old Shepherd,Globe_Shakespeare/wt.xml,,male,RW
+clo.,Clown,Globe_Shakespeare/wt.xml,,male,RW
+aut.,AUTOLYCUS,Globe_Shakespeare/wt.xml,,male,RW
+mar.,A Mariner,Globe_Shakespeare/wt.xml,,male,RW
+gaol.,A Gaoler,Globe_Shakespeare/wt.xml,,male,RW
+her.,HERMIONE,Globe_Shakespeare/wt.xml,,female,RW
+per.,PERDITA,Globe_Shakespeare/wt.xml,,female,RW
+emil.,EMILIA,Globe_Shakespeare/wt.xml,,female,RW
+paul.,PAULINA,Globe_Shakespeare/wt.xml,,female,RW
+mop.,MOPSA,Globe_Shakespeare/wt.xml,,female,RW
+dor.,DORCAS,Globe_Shakespeare/wt.xml,,female,RW
+first-gent.,First Gentleman,Globe_Shakespeare/wt.xml,,male,RW
+sec.-gent.,Second Gentleman,Globe_Shakespeare/wt.xml,,male,RW
+third-gent.,Third Gentleman,Globe_Shakespeare/wt.xml,,male,RW
+first-lord.,First Lord,Globe_Shakespeare/wt.xml,,male,RW
+lord.,Lord,Globe_Shakespeare/wt.xml,,male,RW
+first-lady.,First Lady,Globe_Shakespeare/wt.xml,,female,RW
+sec.-lady.,Second Lady,Globe_Shakespeare/wt.xml,,female,RW
+serv.,Servant,Globe_Shakespeare/wt.xml,,male,RW
+first-serv.,First Servant,Globe_Shakespeare/wt.xml,,male,RW
+sec-serv.,Second Servant,Globe_Shakespeare/wt.xml,,male,RW
+off.,Officer,Globe_Shakespeare/wt.xml,,male,RW
+lords.,Other Lords,Globe_Shakespeare/wt.xml,,male,RW
+gent.,Other Gentlemen,Globe_Shakespeare/wt.xml,,male,RW
+time.,Time,Globe_Shakespeare/wt.xml,,male,RW
+duke.,VINCENTIO,Globe_Shakespeare/mm.xml,,male,RW
+ang.,ANGELO,Globe_Shakespeare/mm.xml,,male,RW
+escal.,ESCALUS,Globe_Shakespeare/mm.xml,,male,RW
+claud.,CLAUDIO,Globe_Shakespeare/mm.xml,,male,RW
+lucio.,LUCIO,Globe_Shakespeare/mm.xml,,male,RW
+first-gent.,First Gentleman,Globe_Shakespeare/mm.xml,,male,RW
+sec.-gent.,Second Gentleman,Globe_Shakespeare/mm.xml,,male,RW
+prov.,PROVOST,Globe_Shakespeare/mm.xml,,male,RW
+fri.-t.,THOMAS,Globe_Shakespeare/mm.xml,,male,RW
+fri.-p.,PETER,Globe_Shakespeare/mm.xml,,male,RW
+just.,A Justice,Globe_Shakespeare/mm.xml,,male,RW
+elb.,ELBOW,Globe_Shakespeare/mm.xml,,male,RW
+froth.,FROTH,Globe_Shakespeare/mm.xml,,male,RW
+pom.,POMPEY,Globe_Shakespeare/mm.xml,,male,RW
+abhor.,ABHORSON,Globe_Shakespeare/mm.xml,,male,RW
+bar.,BARNARDINE,Globe_Shakespeare/mm.xml,,male,RW
+isab.,ISABELLA,Globe_Shakespeare/mm.xml,,female,RW
+mari.,MARIANA,Globe_Shakespeare/mm.xml,,female,RW
+jul.,JULIET,Globe_Shakespeare/mm.xml,,female,RW
+fran.,FRANCISCA,Globe_Shakespeare/mm.xml,,female,RW
+mrs-ov.,MISTRESS OVERDONE,Globe_Shakespeare/mm.xml,,female,RW
+serv.,Servant,Globe_Shakespeare/mm.xml,,male,RW
+boy.,Boy,Globe_Shakespeare/mm.xml,,male,RW
+king.,KING HENRY the Sixth,Globe_Shakespeare/2h6.xml,,male,RW
+glou.,HUMPHREY,Globe_Shakespeare/2h6.xml,,male,RW
+car.,CARDINAL BEAUFORT,Globe_Shakespeare/2h6.xml,,male,RW
+york.,RICHARD PLANTAGENET,Globe_Shakespeare/2h6.xml,,male,RW
+edw.,EDWARD,Globe_Shakespeare/2h6.xml,,male,RW
+rich.,RICHARD,Globe_Shakespeare/2h6.xml,,male,RW
+som.,DUKE OF SOMERSET,Globe_Shakespeare/2h6.xml,,male,EW
+suf.,DUKE OF SUFFOLK,Globe_Shakespeare/2h6.xml,,male,EW
+buck.,DUKE OF BUCKINGHAM,Globe_Shakespeare/2h6.xml,,male,EW
+clif.,LORD CLIFFORD,Globe_Shakespeare/2h6.xml,,male,EW
+y.-clif.,Young CLIFFORD,Globe_Shakespeare/2h6.xml,,male,EW
+sal.,EARL OF SALISBURY,Globe_Shakespeare/2h6.xml,,male,EW
+war.,EARL OF WARWICK,Globe_Shakespeare/2h6.xml,,male,EW
+scales.,LORD SCALES,Globe_Shakespeare/2h6.xml,,male,EW
+say.,LORD SAY,Globe_Shakespeare/2h6.xml,,male,EW
+staf.,SIR HUMPHREY STAFFOR,Globe_Shakespeare/2h6.xml,,male,EW
+bro.,WILLIAM STAFFORD,Globe_Shakespeare/2h6.xml,,male,EW
+stan.,SIR JOHN STANLEY,Globe_Shakespeare/2h6.xml,,male,EW
+vaux.,VAUX,Globe_Shakespeare/2h6.xml,,male,EW
+cap.,A Sea-captain,Globe_Shakespeare/2h6.xml,,male,EW
+mast.,Master,Globe_Shakespeare/2h6.xml,,male,EW
+mate.,Master's-Mate,Globe_Shakespeare/2h6.xml,,male,EW
+whit.,WALTER WHITMORE,Globe_Shakespeare/2h6.xml,,male,EW
+first-gent.,First Gentleman,Globe_Shakespeare/2h6.xml,,male,EW
+sec.-gent.,Second Gentleman,Globe_Shakespeare/2h6.xml,,male,EW
+hume.,JOHN HUME,Globe_Shakespeare/2h6.xml,,male,EW
+boling.,BOLINGBROKE,Globe_Shakespeare/2h6.xml,,male,EW
+hor.,THOMAS HORNER,Globe_Shakespeare/2h6.xml,,male,EW
+peter.,PETER,Globe_Shakespeare/2h6.xml,,male,EW
+clerk.,Clerk of Chatham.,Globe_Shakespeare/2h6.xml,,male,EW
+may.,Mayor of Saint Alban's.,Globe_Shakespeare/2h6.xml,,male,EW
+simp.,SIMPCOX,Globe_Shakespeare/2h6.xml,,male,EW
+iden.,ALEXANDER IDEN,Globe_Shakespeare/2h6.xml,,male,EW
+cade.,JACK CADE,Globe_Shakespeare/2h6.xml,,male,EW
+geo.,GEORGE BEVIS,Globe_Shakespeare/2h6.xml,,male,EW
+bevis.,GEORGE BEVIS,Globe_Shakespeare/2h6.xml,,male,EW
+holl.,JOHN HOLLAND,Globe_Shakespeare/2h6.xml,,male,EW
+dick.,DICK the butcher,Globe_Shakespeare/2h6.xml,,male,EW
+smith.,SMITH the weaver,Globe_Shakespeare/2h6.xml,,male,EW
+mich.,MICHAEL,Globe_Shakespeare/2h6.xml,,male,EW
+first-mur.,First Murderer,Globe_Shakespeare/2h6.xml,,male,EW
+sec.-mur.,Second Murderer,Globe_Shakespeare/2h6.xml,,male,EW
+queen,MARGARET,Globe_Shakespeare/2h6.xml,,female,EW
+duch.,ELEANOR,Globe_Shakespeare/2h6.xml,,female,EW
+m.-jourd.,MARGARET JOURDAIN,Globe_Shakespeare/2h6.xml,,female,EW
+wife.,Wife to Simpcox,Globe_Shakespeare/2h6.xml,,female,EW
+first-petit.,First Petitioner,Globe_Shakespeare/2h6.xml,,male,EW
+sec.-petit.,Second Petitioner,Globe_Shakespeare/2h6.xml,,male,EW
+first-neigh.,First Neighbor,Globe_Shakespeare/2h6.xml,,male,EW
+sec.-neigh.,Second Neighbor,Globe_Shakespeare/2h6.xml,,male,EW
+third-neigh.,Third Neighbor,Globe_Shakespeare/2h6.xml,,male,EW
+first-pren.,First 'Prentice,Globe_Shakespeare/2h6.xml,,male,EW
+sec.-pren.,Second 'Prentice,Globe_Shakespeare/2h6.xml,,male,EW
+commons.,Commons,Globe_Shakespeare/2h6.xml,,male,EW
+all.,All,Globe_Shakespeare/2h6.xml,,male,EW
+first-cit.,First Citizen,Globe_Shakespeare/2h6.xml,,male,EW
+post.,A Post,Globe_Shakespeare/2h6.xml,,male,EW
+bead.,a Beadle,Globe_Shakespeare/2h6.xml,,male,EW
+sher.,Sheriff,Globe_Shakespeare/2h6.xml,,male,EW
+mess.,Messengers,Globe_Shakespeare/2h6.xml,,male,EW
+towns.,Townsmen,Globe_Shakespeare/2h6.xml,,male,EW
+her.,a Herald,Globe_Shakespeare/2h6.xml,,male,EW
+both.,Sal and War together,Globe_Shakespeare/2h6.xml,,male,EW
+serv.,Servant,Globe_Shakespeare/2h6.xml,,male,EW
+sold.,Soldiers,Globe_Shakespeare/2h6.xml,,male,EW
+spir.,A Spirit,Globe_Shakespeare/2h6.xml,,male,EW
+d.-pedro.,DON PEDRO,Globe_Shakespeare/ado.xml,,male,EW
+d.-john.,DON JOHN,Globe_Shakespeare/ado.xml,,male,EW
+claud.,CLAUDIO,Globe_Shakespeare/ado.xml,,male,EW
+bene.,BENEDICK,Globe_Shakespeare/ado.xml,,male,EW
+leon.,LEONATO,Globe_Shakespeare/ado.xml,,male,EW
+ant.,ANTONIO,Globe_Shakespeare/ado.xml,,male,EW
+balth.,BALTHASAR,Globe_Shakespeare/ado.xml,,male,EW
+con.,CONRADE,Globe_Shakespeare/ado.xml,,male,EW
+bora.,BORACHIO,Globe_Shakespeare/ado.xml,,male,EW
+friar.,FRIAR FRANCIS,Globe_Shakespeare/ado.xml,,male,EW
+dog.,DOGBERRY,Globe_Shakespeare/ado.xml,,male,EW
+verg.,VERGES,Globe_Shakespeare/ado.xml,,male,EW
+sex.,A Sexton,Globe_Shakespeare/ado.xml,,male,EW
+boy.,A Boy,Globe_Shakespeare/ado.xml,,male,EW
+hero.,HERO,Globe_Shakespeare/ado.xml,,female,EW
+beat.,BEATRICE,Globe_Shakespeare/ado.xml,,female,EW
+marg.,MARGARET,Globe_Shakespeare/ado.xml,,female,EW
+urs.,URSULA,Globe_Shakespeare/ado.xml,,female,EW
+mess.,Messengers,Globe_Shakespeare/ado.xml,,male,EW
+watch.,Watch,Globe_Shakespeare/ado.xml,,male,EW
+first-watch.,First Watch,Globe_Shakespeare/ado.xml,,male,EW
+sec.-watch.,Second Watch,Globe_Shakespeare/ado.xml,,male,EW
+a-lord.,A Lord.,Globe_Shakespeare/ado.xml,,male,EW
+tit-22,SATURNINUS,Globe_Shakespeare/tit.xml,,,
+tit-4,BASSIANUS,Globe_Shakespeare/tit.xml,,,
+tit-25,TITUS ANDRONICUS,Globe_Shakespeare/tit.xml,,,
+tit-15,MARCUS ANDRONICUS,Globe_Shakespeare/tit.xml,,,
+tit-13,LUCIUS,Globe_Shakespeare/tit.xml,,,
+tit-21,QUINTUS,Globe_Shakespeare/tit.xml,,,
+tit-16,MARTIUS,Globe_Shakespeare/tit.xml,,,
+tit-18,MUTIUS,Globe_Shakespeare/tit.xml,,,
+tit-14,YOUNG Lucius,Globe_Shakespeare/tit.xml,,,
+tit-20,PUBLIUS,Globe_Shakespeare/tit.xml,,,
+tit-2,AEMILIUS,Globe_Shakespeare/tit.xml,,,
+tit-10,DEMETRIUS,Globe_Shakespeare/tit.xml,,,
+tit-8,CHIRON,Globe_Shakespeare/tit.xml,,,
+tit-1,AARON,Globe_Shakespeare/tit.xml,,,
+tit-7,A Captain,Globe_Shakespeare/tit.xml,,,
+tit-26,Tribune,Globe_Shakespeare/tit.xml,,,
+tit-17,Messenger,Globe_Shakespeare/tit.xml,,,
+tit-9,Clown,Globe_Shakespeare/tit.xml,,,
+tit-11,Goths and Romans,Globe_Shakespeare/tit.xml,,,
+tit-24,TAMORA,Globe_Shakespeare/tit.xml,,,
+tit-12,LAVINIA,Globe_Shakespeare/tit.xml,,,
+tit-19,A Nurse,Globe_Shakespeare/tit.xml,,,
+all.,All,Globe_Shakespeare/per.xml,,,
+ant.,ANTIOCHUS,Globe_Shakespeare/per.xml,,MALE,
+bawd.,Bawd,Globe_Shakespeare/per.xml,,FEMALE,
+both.,Both,Globe_Shakespeare/per.xml,,,
+boult.,Boult,Globe_Shakespeare/per.xml,,MALE,
+cer.,CERIMON,Globe_Shakespeare/per.xml,,MALE,
+cle.,Cleon,Globe_Shakespeare/per.xml,,MALE,
+daugh.,Daughter of Antiochus,Globe_Shakespeare/per.xml,,FEMALE,
+dia.,Diana,Globe_Shakespeare/per.xml,,FEMALE,
+dion.,Dionyza,Globe_Shakespeare/per.xml,,FEMALE,
+esca.,Escanes,Globe_Shakespeare/per.xml,,,
+first-fish.,First Fisherman,Globe_Shakespeare/per.xml,,MALE,
+first-gent.,First Gentleman,Globe_Shakespeare/per.xml,,MALE,
+first-knight.,First Knight,Globe_Shakespeare/per.xml,,MALE,
+first-lord.,First Lord,Globe_Shakespeare/per.xml,,MALE,
+first-pirate.,First Pirate,Globe_Shakespeare/per.xml,,MALE,
+first-sail.,First Sailor,Globe_Shakespeare/per.xml,,MALE,
+first-serv.,First Servant,Globe_Shakespeare/per.xml,,MALE,
+gow.,Gower,Globe_Shakespeare/per.xml,,MALE,
+hel.,Helicanus,Globe_Shakespeare/per.xml,,MALE,
+knights.,Knights,Globe_Shakespeare/per.xml,,MALE,
+leon.,Leonine,Globe_Shakespeare/per.xml,,MALE,
+lord.,Lord,Globe_Shakespeare/per.xml,,MALE,
+lyc.,Lychorida,Globe_Shakespeare/per.xml,,FEMALE,
+lys.,LYSIMACHUS,Globe_Shakespeare/per.xml,,MALE,
+mar.,Marina,Globe_Shakespeare/per.xml,,FEMALE,
+marshal.,Marshal,Globe_Shakespeare/per.xml,,MALE,
+mess.,Messenger,Globe_Shakespeare/per.xml,,MALE,
+pand.,Pandar,Globe_Shakespeare/per.xml,,,
+per.,Pericles,Globe_Shakespeare/per.xml,,MALE,
+phil.,Philemon,Globe_Shakespeare/per.xml,,MALE,
+sec.-fish.,Second Fisherman,Globe_Shakespeare/per.xml,,MALE,
+sec.-gent.,Second Gentleman,Globe_Shakespeare/per.xml,,MALE,
+sec.-knight.,Second Knight,Globe_Shakespeare/per.xml,,MALE,
+sec.-lord.,Second Lord,Globe_Shakespeare/per.xml,,MALE,
+sec.-pirate.,Second Pirate,Globe_Shakespeare/per.xml,,MALE,
+sec.-sail.,Second Sailor,Globe_Shakespeare/per.xml,,MALE,
+serv.,Servant,Globe_Shakespeare/per.xml,,MALE,
+sim.,Simonides,Globe_Shakespeare/per.xml,,MALE,
+thai.,Thaisa,Globe_Shakespeare/per.xml,,FEMALE,
+thal.,Thaliard,Globe_Shakespeare/per.xml,,MALE,
+third-fish.,Third Fisherman,Globe_Shakespeare/per.xml,,MALE,
+third-knight.,Third Knight,Globe_Shakespeare/per.xml,,MALE,
+third-lord.,Third Lord,Globe_Shakespeare/per.xml,,MALE,
+third-pirate.,Third Pirate,Globe_Shakespeare/per.xml,,MALE,
+tyr.-sail.,Tyrian Sailor,Globe_Shakespeare/per.xml,,MALE,
+king.,FERDINAND,Globe_Shakespeare/lll.xml,,MALE,
+biron.,BIRON,Globe_Shakespeare/lll.xml,,MALE,
+long.,LONGAVILLE,Globe_Shakespeare/lll.xml,,MALE,
+dum.,DUMAIN,Globe_Shakespeare/lll.xml,,MALE,
+boyet.,BOYET,Globe_Shakespeare/lll.xml,,MALE,
+mer.,MERCADE,Globe_Shakespeare/lll.xml,,MALE,
+arm.,DON ADRIANO DE ARMADO,Globe_Shakespeare/lll.xml,,MALE,
+nath.,SIR NATHANIEL,Globe_Shakespeare/lll.xml,,MALE,
+hol.,HOLOFERNES,Globe_Shakespeare/lll.xml,,MALE,
+dull.,DULL,Globe_Shakespeare/lll.xml,,MALE,
+cost.,COSTARD,Globe_Shakespeare/lll.xml,,MALE,
+moth.,MOTH,Globe_Shakespeare/lll.xml,,MALE,
+for.,A Forester,Globe_Shakespeare/lll.xml,,MALE,
+prin.,The PRINCESS of France,Globe_Shakespeare/lll.xml,,FEMALE,
+ros.,ROSALINE,Globe_Shakespeare/lll.xml,,FEMALE,
+mar.,MARIA,Globe_Shakespeare/lll.xml,,FEMALE,
+kath.,KATHARINE,Globe_Shakespeare/lll.xml,,FEMALE,
+jaq.,JAQUENETTA,Globe_Shakespeare/lll.xml,,FEMALE,
+first-lord.,Lords,Globe_Shakespeare/lll.xml,,MALE,
+king.,CLAUDIUS,Globe_Shakespeare/ham.xml,,MALE,
+ham.,"HAMLET, son to the late",Globe_Shakespeare/ham.xml,,MALE,
+pol.,POLONIUS,Globe_Shakespeare/ham.xml,,MALE,
+hor.,HORATIO,Globe_Shakespeare/ham.xml,,MALE,
+laer.,LAERTES,Globe_Shakespeare/ham.xml,,MALE,
+volt.,VOLTIMAND,Globe_Shakespeare/ham.xml,,MALE,
+cor.,CORNELIUS,Globe_Shakespeare/ham.xml,,MALE,
+ros.,ROSENCRANTZ,Globe_Shakespeare/ham.xml,,MALE,
+guil.,GUILDENSTERN,Globe_Shakespeare/ham.xml,,MALE,
+osr.,OSRIC,Globe_Shakespeare/ham.xml,,MALE,
+gent.,A Gentleman,Globe_Shakespeare/ham.xml,,MALE,
+first-priest.,A Priest,Globe_Shakespeare/ham.xml,,MALE,
+mar.,MARCELLUS,Globe_Shakespeare/ham.xml,,MALE,
+ber.,BERNARDO,Globe_Shakespeare/ham.xml,,MALE,
+fran.,FRANCISCO,Globe_Shakespeare/ham.xml,,MALE,
+rey.,REYNALDO,Globe_Shakespeare/ham.xml,,MALE,
+first-play.,Players,Globe_Shakespeare/ham.xml,,,
+first-clo.,First Clown,Globe_Shakespeare/ham.xml,,MALE,
+sec.-clo.,Second Clown,Globe_Shakespeare/ham.xml,,MALE,
+fort.,FORTINBRAS,Globe_Shakespeare/ham.xml,,MALE,
+cap.,A Captain,Globe_Shakespeare/ham.xml,,MALE,
+first-amb.,English Ambassadors,Globe_Shakespeare/ham.xml,,MALE,
+queen.,GERTRUDE,Globe_Shakespeare/ham.xml,,FEMALE,
+oph.,OPHELIA,Globe_Shakespeare/ham.xml,,FEMALE,
+all.,All,Globe_Shakespeare/ham.xml,,,
+mar.-and-ber.,Mar. and Ber.,Globe_Shakespeare/ham.xml,,MALE,
+mar.-and-hor.,Mar. and Hor.,Globe_Shakespeare/ham.xml,,MALE,
+ros.-and-guil.,Ros. and Guil.,Globe_Shakespeare/ham.xml,,MALE,
+danes.,Danes.,Globe_Shakespeare/ham.xml,,MALE,
+pro.,Prologue,Globe_Shakespeare/ham.xml,,MALE,
+p.-king.,Player King,Globe_Shakespeare/ham.xml,,MALE,
+p.-queen.,Player Queen,Globe_Shakespeare/ham.xml,,FEMALE,
+luc.,Lucianus,Globe_Shakespeare/ham.xml,,MALE,
+serv.,Servant,Globe_Shakespeare/ham.xml,,MALE,
+sail.,Sailor,Globe_Shakespeare/ham.xml,,MALE,
+mess.,Mess.,Globe_Shakespeare/ham.xml,,MALE,
+lord.,Lord.,Globe_Shakespeare/ham.xml,,MALE,
+ghost.,Ghost of Hamlet's Father,Globe_Shakespeare/ham.xml,,MALE,

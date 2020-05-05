@@ -1,0 +1,62 @@
+Gabriel Appleby
+gapple01
+Working with Corpora
+Logistic Regression
+
+I regret the way I've written this assigment.. I wanted a single script for each step
+but I completely forgot about the whole balanced portion until the very end, so its
+a bit shoe-horned in.
+
+
+IMPORTANT: I did .25 percent of data as test set, and .05 seemed really small considering
+how little data I had.
+
+HOW TO OPERATE:
+    1.) Make sure Glove_shakespeare folder in this directory.
+    2.) Make sure the csv from syllabus is in this directory and names shakespeare_characters.csv
+    3.) Run raw_data_to_structured_csv
+    4.) Run raw_data_to_glove_input
+    5.) Run create_balanced_inputs
+    6.) Put the unbalanced glove input through glove, put vectors in this dir as vectors.txt
+    7.) Put the balanced glove input through glove, put vectors in this dir as balanced_vectors.txt
+    8.) Run structured_csv_and_glove_to_logistic_inputs with BALANCED flag set to False
+    9.) Run structured_csv_and_glove_to_logistic_inputs with BALANCED flag set to True
+    10.) Run logistic classification
+    11.) Be sad that this code was so poorly designed that you had to run through a checklist to make it work
+
+Scripts:
+raw_data_to_glove_input
+    This reads in all of the shakespeare xml and uses it to create a txt file in the
+    format that glove code expects in order to create vector representations.
+raw_data_to_structured_csv
+    This reads in all of the shakespeare xml, and the characters file given to use
+    with names and sex. It turns the characters file into a dataframe, and adds a
+    column containing all of the text that character said as a column.
+structured_csv_and_glove_to_logistic_inputs
+    This reads in the structured csv with text and the glove vectors and adds a new
+    column to the dataframe which is the normalized sum of all of the text vectors.
+    Then it converts this to a more convenient npz format as train / test vectors
+    for use with the actual logistic classification script. THIS FILE HAS A FLAG
+    TO EITHER WORK ON THE BALANCED OR UNBALANCED DATA.
+logistic_classification
+    Performs logistic classification on npz formatted data. THIS FILE WORKS ON BOTH
+    THE BALANCED AND UNBALANCED DATA.
+create_balanced_inputs
+    Takes the csv output of raw_data_to_structured_csv and filters through for all
+    female characters that have greater than 2000 words spoken. It was hard balancing
+    getting enough samples for the data, and also choosing women that had enough
+    spoken lines. The total is # of women that meet the criteria is 58. It then samples
+    58 random men from the csv that  also have greater than 2000 words spoken.
+    I chose 2000 since the average words spoken was a little over 2000. This is a simple,
+    but not very effective strategy, I'm sure if I took the average lines spoken of the
+    58 women and compared it to the 58 men the numbers would not be very close. A txt file
+    for glove was then created using the text of all 116 people. The dataframe with the balanced
+    116 samples was also saved to disk.
+
+
+Support:
+constants
+    Full of constants that needed to be in multiple files.
+logistic_classifier
+    Homemade logistic classifier, structured like an sklearn classifier in case I
+    wanted to do grid search or something with it.
